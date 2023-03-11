@@ -34,9 +34,9 @@ services:
       - 3310:3306
     environment:
       - MYSQL_ROOT_PASSWORD=root
-      - MYSQL_USER=user
+      - MYSQL_USER=root
       - MYSQL_PASSWORD=password
-      - MYSQL_DATABASE=laboratoire
+      - MYSQL_DATABASE=dbo.trading.final
     networks:
       - laravel
 
