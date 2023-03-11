@@ -1,0 +1,53 @@
+version: '3.3'
+
+networks:
+  laravel:
+
+services:
+  nginx:
+    build:
+      context: .
+      dockerfile: docker/nginx.dockerfile
+    ports:
+      - 8098:80
+    volumes:
+      - ./:/var/www/html
+    links:
+      - fpm
+    networks:
+      - laravel
+
+  fpm:
+    build:
+      context: .
+      dockerfile: docker/fpm.dockerfile
+    volumes:
+      - ./:/var/www/html
+    links:
+      - db
+    networks:
+      - laravel
+
+  db:
+    image: mysql:5.7
+    ports:
+      - 3310:3306
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_USER=user
+      - MYSQL_PASSWORD=password
+      - MYSQL_DATABASE=laboratoire
+    networks:
+      - laravel
+
+  # phpMyAdmin container
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin:5.0.2
+    networks:
+      - laravel
+    ports:
+      - "8110:80"
+    environment:
+      PMA_HOST: db
+    depends_on:
+      - db
