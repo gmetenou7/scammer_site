@@ -7,16 +7,16 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
-	<title>Technical analysis &#8211; ImportCapital</title>
+	<title>Technical analysis &#8211; TraderPro </title>
 <meta name='robots' content='noindex, nofollow' />
-<link rel="alternate" hreflang="en" href="https://importcapital.cc/technical-analysis" />
+<link rel="alternate" hreflang="en" href="{{ route('technical-analysis') }}" />
 <link rel="alternate" hreflang="ru" href="https://importcapital.cc/ru/technical-analysis" />
 <link rel="alternate" hreflang="pl" href="https://importcapital.cc/pl/technical-analysis" />
 <link rel="alternate" hreflang="es" href="https://importcapital.cc/es/technical-analysis" />
 <link rel="alternate" hreflang="fr" href="https://importcapital.cc/fr/technical-analysis" />
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-<link rel="alternate" type="application/rss+xml" title="ImportCapital &raquo; Feed" href="https://importcapital.cc/feed" />
-<link rel="alternate" type="application/rss+xml" title="ImportCapital &raquo; Comments Feed" href="https://importcapital.cc/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="TraderPro &raquo; Feed" href="https://importcapital.cc/feed" />
+<link rel="alternate" type="application/rss+xml" title="TraderPro &raquo; Comments Feed" href="https://importcapital.cc/comments/feed" />
 <script>
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/importcapital.cc\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
 /*! This file is auto-generated */
@@ -47,10 +47,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel='stylesheet' id='contact-form-7-css' href='https://importcapital.cc/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.2' media='all' />
 <style id='cp-crm-style-global-inline-css'>
 .cp-crm-sign-in-page {
-                
+
             }
             .cp-crm-sign-up-page {
-                
+
             }
             .cp-crm-logout-page {
                 display: none !important;
@@ -92,21 +92,21 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
 <link rel="https://api.w.org/" href="https://importcapital.cc/wp-json/" /><link rel="alternate" type="application/json" href="https://importcapital.cc/wp-json/wp/v2/pages/3311" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://importcapital.cc/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://importcapital.cc/wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 6.1.1" />
-<link rel="canonical" href="https://importcapital.cc/technical-analysis" />
+<link rel="canonical" href="{{ route('technical-analysis') }}" />
 <link rel='shortlink' href='https://importcapital.cc/?p=3311' />
 <link rel="alternate" type="application/json+oembed" href="https://importcapital.cc/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fimportcapital.cc%2Ftechnical-analysis" />
 <link rel="alternate" type="text/xml+oembed" href="https://importcapital.cc/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fimportcapital.cc%2Ftechnical-analysis&amp;format=xml" />
 <meta name="generator" content="WPML ver:4.3.5 stt:1,4,40,45,2;" />
 <meta name="generator" content="Powered by Slider Revolution 6.5.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
-<style type="text/css">.loader:before{border-color:#065184;}.loader:after{border-color:#273540;}.preloader-area{background-color:#ffffff;}body{font-family:"Rubik";color:#454545;font-weight:normal;font-size:18px;}h1{font-family:"Nunito";color:#1d2c38;font-weight:700;}h2{font-family:"Nunito";color:#1d2c38;font-weight:700;}h3{font-family:"Nunito";color:#1d2c38;font-weight:700;}h4{font-family:"Nunito";color:#1d2c38;font-weight:700;}h5{font-family:"Nunito";color:#1d2c38;font-weight:700;}h6{font-family:"Nunito";color:#1d2c38;font-weight:700;}.logo-area.logobg:after{background-color:#ffffff;}.header-top{background-color:#e5eef6;}.header-top ul li span{color:#1d2c38;}.header-top ul li{color:#1d2c38;}.office-time i{color:#104cba;}.header-top ul li a{color:#1d2c38;}.header-top ul li a:hover{color:#104cba;}.main-navigation ul li a{color:#ffffff;}.main-navigation ul li a:hover{color:#ffffff;}.header-one .main-header.header-fluid .navbar{background-color:#065184;}.header-one .button .theme-btns{background-color:#104cba;}.header-one .button .theme-btns:hover{background-color:#1d2c38;}.header-one .button .theme-btns{color:#ffffff;}.header-one .button .theme-btns:hover{color:#ffffff;}.header-two .main-header.header-fluid,.header-two .main-header-right,.header-two .header-top{border-color:#4e597b;}.header-two .header-top ul li span{color:#ffffff;}.header-two .header-top ul li{color:#ffffff;}.header-two .office-time i{color:#ffffff;}.header-two .header-top ul li a{color:#ffffff;}.header-two .header-top ul li a:hover{color:#104cba;}.header-two .main-navigation ul li a{color:#ffffff;}.header-two .main-navigation ul li a:hover{color:#b0c2d7;}.header-two .header-two .main-header.header-fluid .navbar{background-color:#ffffff;}.header-two .button .theme-btns{background-color:#104cba;}.header-two .button .theme-btns:hover{background-color:#1d2c38;}.header-two .button .theme-btns{color:#ffffff;}.header-two .button .theme-btns:hover{color:#ffffff;}.header-three .header-top{background-color:#104cba;}.header-three .header-top ul li span{color:#ffffff;}.header-three .header-top ul li{color:#ffffff;}.header-three .office-time i{color:#ffffff;}.header-three .header-top ul li a{color:#ffffff;}.header-three .header-top ul li a:hover{color:#1d2c38;}.header-three .main-navigation ul li a{color:#ffffff;}.header-three .main-navigation ul li a:hover{color:#b0c2d7;}.header-three .button .theme-btns{background-color:#104cba;}.header-three .button .theme-btns:hover{background-color:#1d2c38;}.header-three .button .theme-btns{color:#ffffff;}.header-three .button .theme-btns:hover{color:#ffffff;}.breadcroumb-area{background-image:url(http://wptf.themepul.com/restly/wp-content/uploads/2021/05/title-bg.jpg);background-position:center center;background-repeat:no-repeat;background-size:cover;}.breadcroumb-area{padding-right:0px;padding-left:0px;}h4.widget-title,.subscribe-widget h4.widget-title{color:#ffffff;}.company-info-widget p,.company-contact-widget ul li,.company-subscribe-widget p{color:#ffffff;}.footer-widgets-area .widget ul li a{color:#ffffff;}.footer-widgets-area .widget ul li a:hover{color:#1d2c38;}.copyright-area p{color:#ffffff;}.copyright-area .social-icons ul li a{color:#ffffff;}.copyright-area .social-icons ul li a:hover{color:#1d2c38;}.copyright-area{background-color:#273540;}.footer-widgets-area{background-color:#065184;background-position:center center;background-repeat:no-repeat;background-size:cover;}.footer-two .ft2-icon i{color:#ffffff;}.footer-two .ft2-icon i{background-color:#104cba;}.footer-two .ft2-content label{color:#bdc2cb;}.footer-two .ft2-content,.footer-two .ft2-content span{color:#ffffff;}.footer-two .ft2-content a{color:#ffffff;}.footer-two .ft2-content a:hover{color:#1d2c38;}.footer-two .footer-top-area .ft-top-item{border-color:#223452;}.footer-two h4.widget-title,.footer-two .subscribe-widget h4.widget-title{color:#ffffff;}.footer-two .company-info-widget p,.footer-two .company-contact-widget ul li,.footer-two .company-subscribe-widget p{color:#ffffff;}.footer-two .company-contact-widget ul li a,.footer-two .footer-widgets-area .widget ul li a{color:#ffffff;}.footer-two .company-contact-widget ul li a,.footer-two .footer-widgets-area .widget ul li a:hover{color:#104cba;}.footer-two .copyright-area p{color:#ffffff;}.footer-two .copyright-area .social-icons ul li a{color:#ffffff;}.footer-two .copyright-area .social-icons ul li a:hover{color:#104cba;}.footer-two .copyright-area{border-color:#223452;}.footer-two .footer-widgets-area{background-image:url(http://wptf.themepul.com/restly/wp-content/uploads/2021/04/ftbg2.png);background-color:#091d3e;background-position:center top;background-repeat:no-repeat;background-size:cover;}.footer-three h4.widget-title,.footer-three .subscribe-widget h4.widget-title{color:#ffffff;}.footer-three .company-info-widget p,.footer-three .company-contact-widget ul li,.footer-three .company-subscribe-widget p{color:#ffffff;}.footer-three .company-contact-widget ul li a,.footer-three .footer-widgets-area .widget ul li a{color:#ffffff;}.footer-three .company-contact-widget ul li a,.footer-three .footer-widgets-area .widget ul li a:hover{color:#104cba;}.footer-three .copyright-area p{color:#ffffff;}.footer-three .copyright-area .social-icons ul li a{color:#ffffff;}.footer-three .copyright-area .social-icons ul li a:hover{color:#104cba;}.footer-three .copyright-area{border-color:#223452;}.footer-three .footer-widgets-area{background-image:url(http://wptf.themepul.com/restly/wp-content/uploads/2021/04/ft3.jpg);background-color:#091d3e;background-position:center center;background-repeat:no-repeat;background-size:cover;}.page-header__bg{background-position:center center;background-repeat:no-repeat;background-size:cover;}</style><link rel="icon" href="https://importcapital.cc/media/2021/10/cropped-favicon-32x32.png" sizes="32x32" />
-<link rel="icon" href="https://importcapital.cc/media/2021/10/cropped-favicon-192x192.png" sizes="192x192" />
+<style type="text/css">.loader:before{border-color:#065184;}.loader:after{border-color:#273540;}.preloader-area{background-color:#ffffff;}body{font-family:"Rubik";color:#454545;font-weight:normal;font-size:18px;}h1{font-family:"Nunito";color:#1d2c38;font-weight:700;}h2{font-family:"Nunito";color:#1d2c38;font-weight:700;}h3{font-family:"Nunito";color:#1d2c38;font-weight:700;}h4{font-family:"Nunito";color:#1d2c38;font-weight:700;}h5{font-family:"Nunito";color:#1d2c38;font-weight:700;}h6{font-family:"Nunito";color:#1d2c38;font-weight:700;}.logo-area.logobg:after{background-color:#ffffff;}.header-top{background-color:#e5eef6;}.header-top ul li span{color:#1d2c38;}.header-top ul li{color:#1d2c38;}.office-time i{color:#104cba;}.header-top ul li a{color:#1d2c38;}.header-top ul li a:hover{color:#104cba;}.main-navigation ul li a{color:#ffffff;}.main-navigation ul li a:hover{color:#ffffff;}.header-one .main-header.header-fluid .navbar{background-color:#065184;}.header-one .button .theme-btns{background-color:#104cba;}.header-one .button .theme-btns:hover{background-color:#1d2c38;}.header-one .button .theme-btns{color:#ffffff;}.header-one .button .theme-btns:hover{color:#ffffff;}.header-two .main-header.header-fluid,.header-two .main-header-right,.header-two .header-top{border-color:#4e597b;}.header-two .header-top ul li span{color:#ffffff;}.header-two .header-top ul li{color:#ffffff;}.header-two .office-time i{color:#ffffff;}.header-two .header-top ul li a{color:#ffffff;}.header-two .header-top ul li a:hover{color:#104cba;}.header-two .main-navigation ul li a{color:#ffffff;}.header-two .main-navigation ul li a:hover{color:#b0c2d7;}.header-two .header-two .main-header.header-fluid .navbar{background-color:#ffffff;}.header-two .button .theme-btns{background-color:#104cba;}.header-two .button .theme-btns:hover{background-color:#1d2c38;}.header-two .button .theme-btns{color:#ffffff;}.header-two .button .theme-btns:hover{color:#ffffff;}.header-three .header-top{background-color:#104cba;}.header-three .header-top ul li span{color:#ffffff;}.header-three .header-top ul li{color:#ffffff;}.header-three .office-time i{color:#ffffff;}.header-three .header-top ul li a{color:#ffffff;}.header-three .header-top ul li a:hover{color:#1d2c38;}.header-three .main-navigation ul li a{color:#ffffff;}.header-three .main-navigation ul li a:hover{color:#b0c2d7;}.header-three .button .theme-btns{background-color:#104cba;}.header-three .button .theme-btns:hover{background-color:#1d2c38;}.header-three .button .theme-btns{color:#ffffff;}.header-three .button .theme-btns:hover{color:#ffffff;}.breadcroumb-area{background-image:url(http://wptf.themepul.com/restly/wp-content/uploads/2021/05/title-bg.jpg);background-position:center center;background-repeat:no-repeat;background-size:cover;}.breadcroumb-area{padding-right:0px;padding-left:0px;}h4.widget-title,.subscribe-widget h4.widget-title{color:#ffffff;}.company-info-widget p,.company-contact-widget ul li,.company-subscribe-widget p{color:#ffffff;}.footer-widgets-area .widget ul li a{color:#ffffff;}.footer-widgets-area .widget ul li a:hover{color:#1d2c38;}.copyright-area p{color:#ffffff;}.copyright-area .social-icons ul li a{color:#ffffff;}.copyright-area .social-icons ul li a:hover{color:#1d2c38;}.copyright-area{background-color:#273540;}.footer-widgets-area{background-color:#065184;background-position:center center;background-repeat:no-repeat;background-size:cover;}.footer-two .ft2-icon i{color:#ffffff;}.footer-two .ft2-icon i{background-color:#104cba;}.footer-two .ft2-content label{color:#bdc2cb;}.footer-two .ft2-content,.footer-two .ft2-content span{color:#ffffff;}.footer-two .ft2-content a{color:#ffffff;}.footer-two .ft2-content a:hover{color:#1d2c38;}.footer-two .footer-top-area .ft-top-item{border-color:#223452;}.footer-two h4.widget-title,.footer-two .subscribe-widget h4.widget-title{color:#ffffff;}.footer-two .company-info-widget p,.footer-two .company-contact-widget ul li,.footer-two .company-subscribe-widget p{color:#ffffff;}.footer-two .company-contact-widget ul li a,.footer-two .footer-widgets-area .widget ul li a{color:#ffffff;}.footer-two .company-contact-widget ul li a,.footer-two .footer-widgets-area .widget ul li a:hover{color:#104cba;}.footer-two .copyright-area p{color:#ffffff;}.footer-two .copyright-area .social-icons ul li a{color:#ffffff;}.footer-two .copyright-area .social-icons ul li a:hover{color:#104cba;}.footer-two .copyright-area{border-color:#223452;}.footer-two .footer-widgets-area{background-image:url(http://wptf.themepul.com/restly/wp-content/uploads/2021/04/ftbg2.png);background-color:#091d3e;background-position:center top;background-repeat:no-repeat;background-size:cover;}.footer-three h4.widget-title,.footer-three .subscribe-widget h4.widget-title{color:#ffffff;}.footer-three .company-info-widget p,.footer-three .company-contact-widget ul li,.footer-three .company-subscribe-widget p{color:#ffffff;}.footer-three .company-contact-widget ul li a,.footer-three .footer-widgets-area .widget ul li a{color:#ffffff;}.footer-three .company-contact-widget ul li a,.footer-three .footer-widgets-area .widget ul li a:hover{color:#104cba;}.footer-three .copyright-area p{color:#ffffff;}.footer-three .copyright-area .social-icons ul li a{color:#ffffff;}.footer-three .copyright-area .social-icons ul li a:hover{color:#104cba;}.footer-three .copyright-area{border-color:#223452;}.footer-three .footer-widgets-area{background-image:url(http://wptf.themepul.com/restly/wp-content/uploads/2021/04/ft3.jpg);background-color:#091d3e;background-position:center center;background-repeat:no-repeat;background-size:cover;}.page-header__bg{background-position:center center;background-repeat:no-repeat;background-size:cover;}</style><link rel="icon" href="{{ asset('image/T-1.png') }}" sizes="32x32" />
+<link rel="icon" href="{{ asset('image/T-1.png') }}" sizes="192x192" />
 <link rel="apple-touch-icon" href="https://importcapital.cc/media/2021/10/cropped-favicon-180x180.png" />
 <meta name="msapplication-TileImage" content="https://importcapital.cc/media/2021/10/cropped-favicon-270x270.png" />
 <script type="text/javascript">function setREVStartSize(e){
-			//window.requestAnimationFrame(function() {				 
-				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
-				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
-				try {								
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
 					var pw = document.getElementById(e.c).parentNode.offsetWidth,
 						newh;
 					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
@@ -116,31 +116,31 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
 					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
 					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
 					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
-					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
-					if(e.layout==="fullscreen" || e.l==="fullscreen") 						
-						newh = Math.max(e.mh,window.RSIH);					
-					else{					
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
 						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
-						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
 						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
 						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
 						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
-											
+
 						var nl = new Array(e.rl.length),
-							ix = 0,						
-							sl;					
+							ix = 0,
+							sl;
 						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
 						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
 						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
-						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
 						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
-						sl = nl[0];									
-						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
-						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
 						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
 					}
 					var el = document.getElementById(e.c);
-					if (el!==null && el) el.style.height = newh+"px";					
+					if (el!==null && el) el.style.height = newh+"px";
 					el = document.getElementById(e.c+"_wrapper");
 					if (el!==null && el) {
 						el.style.height = newh+"px";
@@ -148,11 +148,11 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
 					}
 				} catch(e){
 					console.log("Failure at Presize of Slider:" + e)
-				}					   
+				}
 			//});
 		  };</script>
 		<style id="wp-custom-css">
-			
+
 .nav-menu .button{
 	display: none !important
 }
@@ -200,7 +200,7 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
 }
 
 .footer-widgets-area p{
-	font-size: 15px	
+	font-size: 15px
 }
 
 .footer-widgets-area h4{
@@ -229,23 +229,23 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
 			<div class="logo-area logobg">
 				<div class="site-branding">
 					<a href="{{ route('home') }}">
-						<img src="https://importcapital.cc/media/2021/10/ImportCapital-Logo-120.png" alt="ImportCapital">
+						<img src="{{ asset('image/T.jpg') }}" alt="TraderPro">
 					</a>
 				</div><!-- .site-branding -->
 			</div>
 			<div class="navbar-collapse nav-menu stellarnav">
-				<ul id="mainmenu" class="ms-auto me-5 mb-lg-0"><li id="menu-item-3242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3242"><a href="https://importcapital.cc/about">About</a>
+				<ul id="mainmenu" class="ms-auto me-5 mb-lg-0"><li id="menu-item-3242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3242"><a href="{{ route('about') }}">About</a>
 <ul class="sub-menu">
 	<li id="menu-item-3246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3246"><a href="{{ route('terms') }}">Terms &#038; Conditions</a></li>
 	<li id="menu-item-3243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3243"><a href="{{ route('contact-us') }}">Contact Us</a></li>
 </ul>
 </li>
-<li id="menu-item-3245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3245"><a href="https://importcapital.cc/markets">Markets</a>
+<li id="menu-item-3245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3245"><a href="{{ route('markets') }}">Markets</a>
 <ul class="sub-menu">
 	<li id="menu-item-3244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3244"><a href="{{ route('forex') }}">Forex</a></li>
 	<li id="menu-item-3275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3275"><a href="{{ route('indices') }}">Indices</a></li>
 	<li id="menu-item-3282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3282"><a href="{{ route('shares') }}">Shares</a></li>
-	<li id="menu-item-3319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3319"><a href="https://importcapital.cc/commodities">Commodities</a>
+	<li id="menu-item-3319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3319"><a href="{{ route('commodities') }}">Commodities</a>
 	<ul class="sub-menu">
 		<li id="menu-item-3276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3276"><a href="{{ route('metals') }}">Metals</a></li>
 		<li id="menu-item-3320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3320"><a href="{{ route('energy') }}">Energy</a></li>
@@ -253,13 +253,13 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
 </li>
 </ul>
 </li>
-<li id="menu-item-3247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3247"><a href="https://importcapital.cc/platform">Trading</a>
+<li id="menu-item-3247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3247"><a href="{{ route('platform') }}">Trading</a>
 <ul class="sub-menu">
 	<li id="menu-item-3601" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3601"><a href="{{ route('platform') }}">Platform</a></li>
-	<li id="menu-item-3354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3354"><a href="{{ route('accounts') }}">Accounts</a></li>
+	<li id="menu-item-3354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3354"><a href="{{ route('register') }}">Accounts</a></li>
 </ul>
 </li>
-<li id="menu-item-3324" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3324"><a href="https://importcapital.cc/instruments">Instruments</a>
+<li id="menu-item-3324" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3324"><a href="{{ route('instruments') }}">Instruments</a>
 <ul class="sub-menu">
 	<li id="menu-item-3321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3321"><a href="{{ route('charts') }}">Chart</a></li>
 	<li id="menu-item-3322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3322"><a href="{{ route('economic-calendar') }}">Economic calendar</a></li>
@@ -267,7 +267,7 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
 	<li id="menu-item-3325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3325"><a href="{{ route('technical-analysis') }}">Technical analysis</a></li>
 </ul>
 </li>
-<li id="menu-item-3475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3475"><a href="https://importcapital.cc/autotrading">Specials</a>
+<li id="menu-item-3475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3475"><a href="{{ route('autotrading') }}">Specials</a>
 <ul class="sub-menu">
 	<li id="menu-item-3471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3471"><a href="{{ route('autotrading') }}">Automated trading</a></li>
 	<li id="menu-item-3472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3472"><a href="{{ route('defence') }}">Negati balance protection</a></li>
@@ -275,32 +275,16 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
 	<li id="menu-item-3474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3474"><a href="{{ route('partnership') }}">Partnership</a></li>
 </ul>
 </li>
-@if(Route::has('login'))
-	@auth
-		@if(Auth::user()->user_type === 'administrateur')
-			<li id="menu-item-3474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3474"><a href="{{ route('admin.dashboard') }}">Manage users</a></li>
-			<li id="menu-item-3475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3475">
-				<a href="{{ route('logout') }}" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">Logout</a>
-			</li>	
-			<form id="logout-form" method="POST" action="{{ route('logout') }}">
-				@csrf															
-			</form>											
-		@else					
-			<li id="menu-item-3474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3474"><a href="{{ route('user.dashboard') }}">Client Portal</a></li>
-				<li class="menu-item">
-					<a href="{{ route('logout') }}" onclick="event.preventDefault(); document.getElementById('logout-form').submit();">Logout</a>
-				</li>	
-				<form id="logout-form" method="POST" action="{{ route('logout') }}">
-					@csrf															
-				</form>	
-		@endif
-		@else
-			<li class="menu-item" ><a title="Register or Login" href="{{route('login')}}">Sign in</a></li>
-			<li id="menu-item-3484" class="cp-crm-sign-up-page menu-item menu-item-type-post_type menu-item-object-page menu-item-3484" ><a title="Register or Login" href="{{route('register')}}">Sign up</a></li>
-		@endif
-		@endif
+@if(session()->get('matricule') !== null)
+<li id="menu-item-3483" class="cp-crm-sign-in-page menu-item menu-item-type-post_type menu-item-object-page menu-item-3483"><a href="{{ route('client-portal') }}">Client Portal</a></li>
+            <li id="menu-item-3483" class="cp-crm-sign-in-page menu-item menu-item-type-post_type menu-item-object-page menu-item-3483"><a href="{{ route('users.logout') }}">Logout</a></li>
+        @endif
+        @if(session()->get('matricule') == null)
+        <li id="menu-item-3483" class="cp-crm-sign-in-page menu-item menu-item-type-post_type menu-item-object-page menu-item-3483"><a href="{{route('login')}}">Sign in</a></li>
+        <li id="menu-item-3483" class="cp-crm-sign-in-page menu-item menu-item-type-post_type menu-item-object-page menu-item-3483"><a title="Register or Login" href="{{route('register')}}">Sign up</a></li>
+        @endif
 </ul>				<div class="button d-flex">
-    <a href="https://importcapital.cc/contact-us" class="theme-btns">Meet With Us</a>
+    <a href="{{ route('contact-us') }}" class="theme-btns">Meet With Us</a>
 </div>			</div>
 		</nav>
 	</div>
@@ -384,10 +368,10 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
 								<section id="custom_html-11" class="widget_text widget footer-widtet widget_custom_html"><h4 class="widget-title">Risk Warning:</h4><div class="textwidget custom-html-widget"><p>
 	CFDs are a complex financial instrument. It is associated with a high probability of funds loss due to the use of leverage. Statistics show that 78% of private investors lose their capital when trading CFDs.
 </p></div></section><section id="custom_html-12" class="widget_text widget footer-widtet widget_custom_html"><h4 class="widget-title">Contact Information</h4><div class="textwidget custom-html-widget"><p>
-	<i class="far fa-envelope"></i> <a href="https://importcapital.cc/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e1828e8c8d88808f8284a1888c918e93958280918895808dcf8282">[email&#160;protected]</a>
+	trade@i-tradingpro.online
 </p>
 <p>
-	<i class="fas fa-phone"></i> +442038079370
+	<i class="fas fa-phone"></i> +44 1865 52 2744
 
 </p></div></section>							</div><!-- .widget-area -->
 													<div class="widget-area col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 footer">
@@ -400,8 +384,8 @@ Before you start trading on the global financial markets, you should familiarize
 <img src="https://importcapital.cc/media/2021/11/pay-piastrix-logo-white-2.png">
 <img src="https://importcapital.cc/media/2021/11/pay-mastercard-securecode-logo-white-2.png"><img src="https://importcapital.cc/media/2021/11/pay-maestro-logo-white-2.png">
 </div></div></section>							</div><!-- .widget-area -->
-							    		</div>	
-	    		    </div>    
+							    		</div>
+	    		    </div>
 	</div>
 	</div>		</div>
 		<div class="copyright-area">
@@ -409,7 +393,7 @@ Before you start trading on the global financial markets, you should familiarize
         <div class="row">
                         <div class="col-lg-12 col-md-12 col-sm-12 col-12">
                 <div class="site-info text-center">
-                    Copyright © 2022 ImportCapital, All Rights Reserved                </div><!-- .site-info -->
+                    Copyright © 2022 TraderPro, All Rights Reserved                </div><!-- .site-info -->
             </div>
         </div>
     </div>
@@ -465,19 +449,19 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 <script>
 var field = document.querySelector('[name="form_fields[login]"]');
 
-field.setAttribute("onkeyup", "changeToLowerCase(this)");	
+field.setAttribute("onkeyup", "changeToLowerCase(this)");
 
-field.addEventListener('keypress', function ( event ) {  
+field.addEventListener('keypress', function ( event ) {
    var key = event.keyCode;
     if (key === 32) {
       event.preventDefault();
     }
 });
-	
+
 function changeToLowerCase(el)
  {
      el.value =el.value.trim().toLowerCase();
- }	
+ }
 </script>
 </body>
 

@@ -1,20 +1,18 @@
+
 <!doctype html>
 <html lang="en-US">
-
-<!-- Mirrored from importcapital.cc/no-comission by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 07 Mar 2023 14:22:20 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
-	<title>No comission &#8211; TraderPro </title>
+	<title>About &#8211; TraderPro</title>
 <meta name='robots' content='noindex, nofollow' />
-<link rel="alternate" hreflang="en" href="{{ route('no-commission') }}" />
-<link rel="alternate" hreflang="ru" href="https://importcapital.cc/ru/no-comission" />
-<link rel="alternate" hreflang="pl" href="https://importcapital.cc/pl/no-comission" />
-<link rel="alternate" hreflang="es" href="https://importcapital.cc/es/no-comission" />
-<link rel="alternate" hreflang="fr" href="https://importcapital.cc/fr/no-comission" />
-<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+<link rel="alternate" hreflang="en" href="{{ route('about') }}" />
+<link rel="alternate" hreflang="ru" href="https://importcapital.cc/ru/about" />
+<link rel="alternate" hreflang="pl" href="https://importcapital.cc/pl/about" />
+<link rel="alternate" hreflang="es" href="https://importcapital.cc/es/about" />
+<link rel="alternate" hreflang="fr" href="https://importcapital.cc/fr/about" />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel="alternate" type="application/rss+xml" title="TraderPro &raquo; Feed" href="https://importcapital.cc/feed" />
 <link rel="alternate" type="application/rss+xml" title="TraderPro &raquo; Comments Feed" href="https://importcapital.cc/comments/feed" />
 <script>
@@ -71,7 +69,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel='stylesheet' id='owl-css-css' href='https://importcapital.cc/wp-content/plugins/restlycore/assets/css/owl.css?ver=2.2.0' media='all' />
 <link rel='stylesheet' id='restly-theme-css' href='https://importcapital.cc/wp-content/themes/restly/assets/css/theme.css?ver=1.0.0' media='all' />
 <link rel='stylesheet' id='restly-custom-widget-css' href='https://importcapital.cc/wp-content/plugins/restlycore/assets/css/custom-widgets.css?ver=1.0.0' media='all' />
-<link rel='stylesheet' id='wpml-menu-item-0-css' href='http://importcapital.cc/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.css?ver=1' media='all' />
+<link rel='stylesheet' id='wpml-menu-item-0-css' href='//importcapital.cc/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.css?ver=1' media='all' />
 <link rel='stylesheet' id='stellarnav-min-css' href='https://importcapital.cc/wp-content/themes/restly/assets/menu/stellarnav-min.css?ver=1.0.0' media='all' />
 <link rel='stylesheet' id='restly-style-css' href='https://importcapital.cc/wp-content/themes/restly/style.css?ver=1.0.0' media='all' />
 <link rel='stylesheet' id='elementor-icons-css' href='https://importcapital.cc/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.6.2' media='all' />
@@ -80,22 +78,22 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel='stylesheet' id='elementor-pro-css' href='https://importcapital.cc/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=2.10.3' media='all' />
 <link rel='stylesheet' id='elementor-global-css' href='https://importcapital.cc/media/elementor/css/global.css?ver=1635160621' media='all' />
 <link rel='stylesheet' id='elementor-post-7-css' href='https://importcapital.cc/media/elementor/css/post-7.css?ver=1634894682' media='all' />
-<link rel='stylesheet' id='elementor-post-3461-css' href='https://importcapital.cc/media/elementor/css/post-3461.css?ver=1648051783' media='all' />
-<link rel='stylesheet' id='csf-google-web-fonts-css' href='http://fonts.googleapis.com/css?family=Rubik:400,300,500,600,700,800,900%7CNunito:700&amp;display=swap' media='all' />
-<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRubik%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;ver=6.1.1' media='all' />
+<link rel='stylesheet' id='elementor-post-3075-css' href='https://importcapital.cc/media/elementor/css/post-3075.css?ver=1637756669' media='all' />
+<link rel='stylesheet' id='csf-google-web-fonts-css' href='//fonts.googleapis.com/css?family=Rubik:400,300,500,600,700,800,900%7CNunito:700&#038;display=swap' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRubik%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=6.1.1' media='all' />
 <script id='pw-script-js-extra'>
 var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp-crm-integration\/assets\/img-country-flags\/"};
 </script>
 <script src='https://importcapital.cc/wp-content/plugins/cp-crm-integration/core/loaders/js/pw-script.js?ver=6.1.1' id='pw-script-js'></script>
 <script src='https://importcapital.cc/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
 <script src='https://importcapital.cc/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
-<link rel="https://api.w.org/" href="https://importcapital.cc/wp-json/" /><link rel="alternate" type="application/json" href="https://importcapital.cc/wp-json/wp/v2/pages/3461" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://importcapital.cc/xmlrpc.php?rsd" />
+<link rel="https://api.w.org/" href="https://importcapital.cc/wp-json/" /><link rel="alternate" type="application/json" href="https://importcapital.cc/wp-json/wp/v2/pages/3075" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://importcapital.cc/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://importcapital.cc/wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 6.1.1" />
-<link rel="canonical" href="{{ route('no-commission') }}" />
-<link rel='shortlink' href='https://importcapital.cc/?p=3461' />
-<link rel="alternate" type="application/json+oembed" href="https://importcapital.cc/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fimportcapital.cc%2Fno-comission" />
-<link rel="alternate" type="text/xml+oembed" href="https://importcapital.cc/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fimportcapital.cc%2Fno-comission&amp;format=xml" />
+<link rel="canonical" href="{{ route('about') }}" />
+<link rel='shortlink' href='https://importcapital.cc/?p=3075' />
+<link rel="alternate" type="application/json+oembed" href="https://importcapital.cc/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fimportcapital.cc%2Fabout" />
+<link rel="alternate" type="text/xml+oembed" href="https://importcapital.cc/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fimportcapital.cc%2Fabout&#038;format=xml" />
 <meta name="generator" content="WPML ver:4.3.5 stt:1,4,40,45,2;" />
 <meta name="generator" content="Powered by Slider Revolution 6.5.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
 <style type="text/css">.loader:before{border-color:#065184;}.loader:after{border-color:#273540;}.preloader-area{background-color:#ffffff;}body{font-family:"Rubik";color:#454545;font-weight:normal;font-size:18px;}h1{font-family:"Nunito";color:#1d2c38;font-weight:700;}h2{font-family:"Nunito";color:#1d2c38;font-weight:700;}h3{font-family:"Nunito";color:#1d2c38;font-weight:700;}h4{font-family:"Nunito";color:#1d2c38;font-weight:700;}h5{font-family:"Nunito";color:#1d2c38;font-weight:700;}h6{font-family:"Nunito";color:#1d2c38;font-weight:700;}.logo-area.logobg:after{background-color:#ffffff;}.header-top{background-color:#e5eef6;}.header-top ul li span{color:#1d2c38;}.header-top ul li{color:#1d2c38;}.office-time i{color:#104cba;}.header-top ul li a{color:#1d2c38;}.header-top ul li a:hover{color:#104cba;}.main-navigation ul li a{color:#ffffff;}.main-navigation ul li a:hover{color:#ffffff;}.header-one .main-header.header-fluid .navbar{background-color:#065184;}.header-one .button .theme-btns{background-color:#104cba;}.header-one .button .theme-btns:hover{background-color:#1d2c38;}.header-one .button .theme-btns{color:#ffffff;}.header-one .button .theme-btns:hover{color:#ffffff;}.header-two .main-header.header-fluid,.header-two .main-header-right,.header-two .header-top{border-color:#4e597b;}.header-two .header-top ul li span{color:#ffffff;}.header-two .header-top ul li{color:#ffffff;}.header-two .office-time i{color:#ffffff;}.header-two .header-top ul li a{color:#ffffff;}.header-two .header-top ul li a:hover{color:#104cba;}.header-two .main-navigation ul li a{color:#ffffff;}.header-two .main-navigation ul li a:hover{color:#b0c2d7;}.header-two .header-two .main-header.header-fluid .navbar{background-color:#ffffff;}.header-two .button .theme-btns{background-color:#104cba;}.header-two .button .theme-btns:hover{background-color:#1d2c38;}.header-two .button .theme-btns{color:#ffffff;}.header-two .button .theme-btns:hover{color:#ffffff;}.header-three .header-top{background-color:#104cba;}.header-three .header-top ul li span{color:#ffffff;}.header-three .header-top ul li{color:#ffffff;}.header-three .office-time i{color:#ffffff;}.header-three .header-top ul li a{color:#ffffff;}.header-three .header-top ul li a:hover{color:#1d2c38;}.header-three .main-navigation ul li a{color:#ffffff;}.header-three .main-navigation ul li a:hover{color:#b0c2d7;}.header-three .button .theme-btns{background-color:#104cba;}.header-three .button .theme-btns:hover{background-color:#1d2c38;}.header-three .button .theme-btns{color:#ffffff;}.header-three .button .theme-btns:hover{color:#ffffff;}.breadcroumb-area{background-image:url(http://wptf.themepul.com/restly/wp-content/uploads/2021/05/title-bg.jpg);background-position:center center;background-repeat:no-repeat;background-size:cover;}.breadcroumb-area{padding-right:0px;padding-left:0px;}h4.widget-title,.subscribe-widget h4.widget-title{color:#ffffff;}.company-info-widget p,.company-contact-widget ul li,.company-subscribe-widget p{color:#ffffff;}.footer-widgets-area .widget ul li a{color:#ffffff;}.footer-widgets-area .widget ul li a:hover{color:#1d2c38;}.copyright-area p{color:#ffffff;}.copyright-area .social-icons ul li a{color:#ffffff;}.copyright-area .social-icons ul li a:hover{color:#1d2c38;}.copyright-area{background-color:#273540;}.footer-widgets-area{background-color:#065184;background-position:center center;background-repeat:no-repeat;background-size:cover;}.footer-two .ft2-icon i{color:#ffffff;}.footer-two .ft2-icon i{background-color:#104cba;}.footer-two .ft2-content label{color:#bdc2cb;}.footer-two .ft2-content,.footer-two .ft2-content span{color:#ffffff;}.footer-two .ft2-content a{color:#ffffff;}.footer-two .ft2-content a:hover{color:#1d2c38;}.footer-two .footer-top-area .ft-top-item{border-color:#223452;}.footer-two h4.widget-title,.footer-two .subscribe-widget h4.widget-title{color:#ffffff;}.footer-two .company-info-widget p,.footer-two .company-contact-widget ul li,.footer-two .company-subscribe-widget p{color:#ffffff;}.footer-two .company-contact-widget ul li a,.footer-two .footer-widgets-area .widget ul li a{color:#ffffff;}.footer-two .company-contact-widget ul li a,.footer-two .footer-widgets-area .widget ul li a:hover{color:#104cba;}.footer-two .copyright-area p{color:#ffffff;}.footer-two .copyright-area .social-icons ul li a{color:#ffffff;}.footer-two .copyright-area .social-icons ul li a:hover{color:#104cba;}.footer-two .copyright-area{border-color:#223452;}.footer-two .footer-widgets-area{background-image:url(http://wptf.themepul.com/restly/wp-content/uploads/2021/04/ftbg2.png);background-color:#091d3e;background-position:center top;background-repeat:no-repeat;background-size:cover;}.footer-three h4.widget-title,.footer-three .subscribe-widget h4.widget-title{color:#ffffff;}.footer-three .company-info-widget p,.footer-three .company-contact-widget ul li,.footer-three .company-subscribe-widget p{color:#ffffff;}.footer-three .company-contact-widget ul li a,.footer-three .footer-widgets-area .widget ul li a{color:#ffffff;}.footer-three .company-contact-widget ul li a,.footer-three .footer-widgets-area .widget ul li a:hover{color:#104cba;}.footer-three .copyright-area p{color:#ffffff;}.footer-three .copyright-area .social-icons ul li a{color:#ffffff;}.footer-three .copyright-area .social-icons ul li a:hover{color:#104cba;}.footer-three .copyright-area{border-color:#223452;}.footer-three .footer-widgets-area{background-image:url(http://wptf.themepul.com/restly/wp-content/uploads/2021/04/ft3.jpg);background-color:#091d3e;background-position:center center;background-repeat:no-repeat;background-size:cover;}.page-header__bg{background-position:center center;background-repeat:no-repeat;background-size:cover;}</style><link rel="icon" href="{{ asset('image/T-1.png') }}" sizes="32x32" />
@@ -209,87 +207,95 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
 }		</style>
 		</head>
 
-<body class="page-template page-template-template-home page-template-template-home-php page page-id-3461 page-builder-used elementor-default elementor-kit-7 elementor-page elementor-page-3461">
+<body class="page-template page-template-template-home page-template-template-home-php page page-id-3075 page-builder-used elementor-default elementor-kit-7 elementor-page elementor-page-3075">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><div id="page" class="site">
     	<a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
-	<header id="masthead" class="site-header header-one">
-	<div class="header-top">
-		<div class="header-top-fluid">
-			<div class="row align-items-center">
-								<div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 top-header-right">
-										<div class="office-time">
-						<i class=""></i><span></span>
-					</div>
-														</div>
-			</div>
-		</div>
-	</div>
-	<div class="main-header header-fluid">
-		<nav class="navbar navbar-expand-lg navbar-light main-navigation" id="sticky-header">
-			<div class="logo-area logobg">
-				<div class="site-branding">
-					<a href="{{ route('home') }}">
-						<img src="{{ asset('image/T.jpg') }}" alt="TraderPro">
-					</a>
-				</div><!-- .site-branding -->
-			</div>
-			<div class="navbar-collapse nav-menu stellarnav">
-				<ul id="mainmenu" class="ms-auto me-5 mb-lg-0"><li id="menu-item-3242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3242"><a href="{{ route('about') }}">About</a>
-<ul class="sub-menu">
-	<li id="menu-item-3246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3246"><a href="{{ route('terms') }}">Terms &#038; Conditions</a></li>
-	<li id="menu-item-3243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3243"><a href="{{ route('contact-us') }}">Contact Us</a></li>
-</ul>
-</li>
-<li id="menu-item-3245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3245"><a href="{{ route('markets') }}">Markets</a>
-<ul class="sub-menu">
-	<li id="menu-item-3244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3244"><a href="{{ route('forex') }}">Forex</a></li>
-	<li id="menu-item-3275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3275"><a href="{{ route('indices') }}">Indices</a></li>
-	<li id="menu-item-3282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3282"><a href="{{ route('shares') }}">Shares</a></li>
-	<li id="menu-item-3319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3319"><a href="{{ route('commodities') }}">Commodities</a>
-	<ul class="sub-menu">
-		<li id="menu-item-3276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3276"><a href="{{ route('metals') }}">Metals</a></li>
-		<li id="menu-item-3320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3320"><a href="{{ route('energy') }}">Energy</a></li>
-	</ul>
-</li>
-</ul>
-</li>
-<li id="menu-item-3247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3247"><a href="{{ route('platform') }}">Trading</a>
-<ul class="sub-menu">
-	<li id="menu-item-3601" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3601"><a href="{{ route('platform') }}">Platform</a></li>
-	<li id="menu-item-3354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3354"><a href="{{ route('register') }}">Accounts</a></li>
-</ul>
-</li>
-<li id="menu-item-3324" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3324"><a href="{{ route('instruments') }}">Instruments</a>
-<ul class="sub-menu">
-	<li id="menu-item-3321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3321"><a href="{{ route('charts') }}">Chart</a></li>
-	<li id="menu-item-3322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3322"><a href="{{ route('economic-calendar') }}">Economic calendar</a></li>
-	<li id="menu-item-3323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3323"><a href="{{ route('heat-map') }}">Forex heat map</a></li>
-	<li id="menu-item-3325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3325"><a href="{{ route('technical-analysis') }}">Technical analysis</a></li>
-</ul>
-</li>
-<li id="menu-item-3475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3475"><a href="{{ route('autotrading') }}">Specials</a>
-<ul class="sub-menu">
-	<li id="menu-item-3471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3471"><a href="{{ route('autotrading') }}">Automated trading</a></li>
-	<li id="menu-item-3472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3472"><a href="{{ route('defence') }}">Negati balance protection</a></li>
-	<li id="menu-item-3473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3473"><a href="{{ route('no-commission') }}">No comission</a></li>
-	<li id="menu-item-3474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3474"><a href="{{ route('partnership') }}">Partnership</a></li>
-</ul>
-</li>
-@if(session()->get('matricule') !== null)
-<li id="menu-item-3483" class="cp-crm-sign-in-page menu-item menu-item-type-post_type menu-item-object-page menu-item-3483"><a href="{{ route('client-portal') }}">Client Portal</a></li>
+        <header id="masthead" class="site-header header-one">
+            <div class="header-top">
+                <div class="header-top-fluid">
+                    <div class="row align-items-center">
+                                        <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 top-header-right">
+                                                <div class="office-time">
+                                <i class=""></i><span></span>
+                            </div>
+                                                                </div>
+                    </div>
+                </div>
+            </div>
+            <div class="main-header header-fluid">
+                <nav class="navbar navbar-expand-lg navbar-light main-navigation" id="sticky-header">
+                    <div class="logo-area logobg">
+                        <div class="site-branding">
+                            <a href="{{ route('home') }}">
+                                <img src="{{ asset('image/T.jpg') }}" alt="TraderPro">
+                            </a>
+                        </div><!-- .site-branding -->
+                    </div>
+                    <div class="navbar-collapse nav-menu stellarnav">
+                        <ul id="mainmenu" class="ms-auto me-5 mb-lg-0"><li id="menu-item-3242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3242"><a href="{{ route('about') }}">About</a>
+        <ul class="sub-menu">
+            <li id="menu-item-3246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3246"><a href="{{ route('terms') }}">Terms &#038; Conditions</a></li>
+            <li id="menu-item-3243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3243"><a href="{{ route('contact-us') }}">Contact Us</a></li>
+        </ul>
+        </li>
+        <li id="menu-item-3245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3245"><a href="{{ route('markets') }}">Markets</a>
+        <ul class="sub-menu">
+            <li id="menu-item-3244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3244"><a href="{{ route('forex') }}">Forex</a></li>
+            <li id="menu-item-3275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3275"><a href="{{ route('indices') }}">Indices</a></li>
+            <li id="menu-item-3282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3282"><a href="{{ route('shares') }}">Shares</a></li>
+            <li id="menu-item-3319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3319"><a href="{{ route('commodities') }}">Commodities</a>
+            <ul class="sub-menu">
+                <li id="menu-item-3276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3276"><a href="{{ route('metals') }}">Metals</a></li>
+                <li id="menu-item-3320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3320"><a href="{{ route('energy') }}">Energy</a></li>
+            </ul>
+        </li>
+        </ul>
+        </li>
+        <li id="menu-item-3247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3247"><a href="{{ route('platform') }}">Trading</a>
+        <ul class="sub-menu">
+            <li id="menu-item-3601" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3601"><a href="{{ route('platform') }}">Platform</a></li>
+            <li id="menu-item-3354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3354"><a href="{{ route('register') }}">Accounts</a></li>
+        </ul>
+        </li>
+        <li id="menu-item-3324" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3324"><a href="{{ route('instruments') }}">Instruments</a>
+        <ul class="sub-menu">
+            <li id="menu-item-3321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3321"><a href="{{ route('charts') }}">Chart</a></li>
+            <li id="menu-item-3322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3322"><a href="{{ route('economic-calendar') }}">Economic calendar</a></li>
+            <li id="menu-item-3323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3323"><a href="{{ route('heat-map') }}">Forex heat map</a></li>
+            <li id="menu-item-3325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3325"><a href="{{ route('technical-analysis') }}">Technical analysis</a></li>
+        </ul>
+        </li>
+        <li id="menu-item-3475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3475"><a href="{{ route('autotrading') }}">Specials</a>
+        <ul class="sub-menu">
+            <li id="menu-item-3471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3471"><a href="{{ route('autotrading') }}">Automated trading</a></li>
+            <li id="menu-item-3472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3472"><a href="{{ route('defence') }}">Negati balance protection</a></li>
+            <li id="menu-item-3473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3473"><a href="{{ route('no-commission') }}">No comission</a></li>
+            <li id="menu-item-3474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3474"><a href="{{ route('partnership') }}">Partnership</a></li>
+        </ul>
+        </li>
+
+        @if(session()->get('matricule') !== null)
+            <li id="menu-item-3483" class="cp-crm-sign-in-page menu-item menu-item-type-post_type menu-item-object-page menu-item-3483"><a href="{{ route('client-portal') }}">Client Portal</a></li>
             <li id="menu-item-3483" class="cp-crm-sign-in-page menu-item menu-item-type-post_type menu-item-object-page menu-item-3483"><a href="{{ route('users.logout') }}">Logout</a></li>
         @endif
         @if(session()->get('matricule') == null)
         <li id="menu-item-3483" class="cp-crm-sign-in-page menu-item menu-item-type-post_type menu-item-object-page menu-item-3483"><a href="{{route('login')}}">Sign in</a></li>
         <li id="menu-item-3483" class="cp-crm-sign-in-page menu-item menu-item-type-post_type menu-item-object-page menu-item-3483"><a title="Register or Login" href="{{route('register')}}">Sign up</a></li>
         @endif
-</ul>				<div class="button d-flex">
-    <a href="{{ route('contact-us') }}" class="theme-btns">Meet With Us</a>
-</div>			</div>
-		</nav>
-	</div>
-</header><!-- #masthead --><div class="restly-template-home">
-      		<div data-elementor-type="wp-page" data-elementor-id="3461" class="elementor elementor-3461" data-elementor-settings="[]">
+
+
+        {{-- <li id="menu-item-3483" class="cp-crm-sign-in-page menu-item menu-item-type-post_type menu-item-object-page menu-item-3483"><a href="https://importcapital.cc/sign-in">Sign in</a></li>
+        <li id="menu-item-3484" class="cp-crm-sign-up-page menu-item menu-item-type-post_type menu-item-object-page menu-item-3484"><a href="{{ route('register') }}">Sign up</a></li>
+        <li id="menu-item-4701" class="cp-crm-client-portal-page menu-item menu-item-type-post_type menu-item-object-page menu-item-4701"><a href="https://importcapital.cc/client-portal">Client portal</a></li>
+         --}}
+
+        </ul>				<div class="button d-flex">
+            <a href="{{ route('contact-us') }}" class="theme-btns">Meet With Us</a>
+        </div>			</div>
+                </nav>
+            </div>
+        </header><!-- #masthead --><div class="restly-template-home">
+      		<div data-elementor-type="wp-page" data-elementor-id="3075" class="elementor elementor-3075" data-elementor-settings="[]">
 			<div class="elementor-inner">
 				<div class="elementor-section-wrap">
 							<section class="elementor-element elementor-element-df1978f elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="df1978f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -309,14 +315,14 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
 				<div class="elementor-widget-container">
 			        <div class="restly-section-title-wrapper">
             <div class="restly-section-title">
-                                <h2 class="restly-section-title">Deposit and withdrawal of funds without commissions</h2>
+                                <h2 class="restly-section-title">TraderPro</h2>
             </div>
         </div>
         		</div>
 				</div>
 				<div class="elementor-element elementor-element-3555eb5 elementor-widget elementor-widget-text-editor" data-id="3555eb5" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix">Choose the type of trading account that suits you  best and trade for your pleasure. We take care of the rest, including commissions!</div>
+					<div class="elementor-text-editor elementor-clearfix">The most profitable offers on the world markets among brokers. Trade with a leading company, experiencing the best conditions!</div>
 				</div>
 				</div>
 						</div>
@@ -334,37 +340,6 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
 				<section class="elementor-element elementor-element-64a917f elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="64a917f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
-				<div class="elementor-element elementor-element-a0acb38 elementor-column elementor-col-25 elementor-inner-column" data-id="a0acb38" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-39ba914 elementor-widget elementor-widget-restly_counter" data-id="39ba914" data-element_type="widget" data-widget_type="restly_counter.default">
-				<div class="elementor-widget-container">
-
-        <script>
-			jQuery(document).ready(function($) {
-				 "use strict";
-				$(".timer-467532136").countTo();
-				$(".count-process-467532136").appear(function() {
-				    $(".timer-467532136").countTo();
-				}, {
-				    accY: -200
-				});
-			});
-		</script>
-                <div class="restly-counter-wrapper">
-            <div class="restly-counter">
-                <div class="counter-numbers count-process-467532136">
-                    <div class="counter-nmber timer-467532136" data-to="5" data-speed="5000">5</div>
-                    <span class="counter-nmber"></span>
-                </div>
-                <h2 class="resty-counter-title">Trading account types</h2>
-            </div>
-        </div>
-        		</div>
-				</div>
-						</div>
-			</div>
-		</div>
 				<div class="elementor-element elementor-element-f130f22 elementor-column elementor-col-25 elementor-inner-column" data-id="f130f22" data-element_type="column">
 			<div class="elementor-column-wrap  elementor-element-populated">
 					<div class="elementor-widget-wrap">
@@ -374,9 +349,9 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
         <script>
 			jQuery(document).ready(function($) {
 				 "use strict";
-				$(".timer-150479436").countTo();
-				$(".count-process-150479436").appear(function() {
-				    $(".timer-150479436").countTo();
+				$(".timer-230921884").countTo();
+				$(".count-process-230921884").appear(function() {
+				    $(".timer-230921884").countTo();
 				}, {
 				    accY: -200
 				});
@@ -384,11 +359,11 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
 		</script>
                 <div class="restly-counter-wrapper">
             <div class="restly-counter">
-                <div class="counter-numbers count-process-150479436">
-                    <div class="counter-nmber timer-150479436" data-to="60" data-speed="5000">60</div>
+                <div class="counter-numbers count-process-230921884">
+                    <div class="counter-nmber timer-230921884" data-to="60" data-speed="5000">60</div>
                     <span class="counter-nmber">m $</span>
                 </div>
-                <h2 class="resty-counter-title">in investments in trading accounts</h2>
+                <h2 class="resty-counter-title">in investments on trading accounts</h2>
             </div>
         </div>
         		</div>
@@ -396,18 +371,18 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
 						</div>
 			</div>
 		</div>
-				<div class="elementor-element elementor-element-a950da1 elementor-column elementor-col-25 elementor-inner-column" data-id="a950da1" data-element_type="column">
+				<div class="elementor-element elementor-element-a0acb38 elementor-column elementor-col-25 elementor-inner-column" data-id="a0acb38" data-element_type="column">
 			<div class="elementor-column-wrap  elementor-element-populated">
 					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-d8940e6 elementor-widget elementor-widget-restly_counter" data-id="d8940e6" data-element_type="widget" data-widget_type="restly_counter.default">
+				<div class="elementor-element elementor-element-0115476 elementor-widget elementor-widget-restly_counter" data-id="0115476" data-element_type="widget" data-widget_type="restly_counter.default">
 				<div class="elementor-widget-container">
 
         <script>
 			jQuery(document).ready(function($) {
 				 "use strict";
-				$(".timer-539546136").countTo();
-				$(".count-process-539546136").appear(function() {
-				    $(".timer-539546136").countTo();
+				$(".timer-241556014").countTo();
+				$(".count-process-241556014").appear(function() {
+				    $(".timer-241556014").countTo();
 				}, {
 				    accY: -200
 				});
@@ -415,11 +390,11 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
 		</script>
                 <div class="restly-counter-wrapper">
             <div class="restly-counter">
-                <div class="counter-numbers count-process-539546136">
-                    <div class="counter-nmber timer-539546136" data-to="2000" data-speed="5000">2000</div>
-                    <span class="counter-nmber">+</span>
+                <div class="counter-numbers count-process-241556014">
+                    <div class="counter-nmber timer-241556014" data-to="62" data-speed="5000">62</div>
+                    <span class="counter-nmber">к+</span>
                 </div>
-                <h2 class="resty-counter-title">trading instruments</h2>
+                <h2 class="resty-counter-title">clients</h2>
             </div>
         </div>
         		</div>
@@ -436,9 +411,9 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
         <script>
 			jQuery(document).ready(function($) {
 				 "use strict";
-				$(".timer-394460847").countTo();
-				$(".count-process-394460847").appear(function() {
-				    $(".timer-394460847").countTo();
+				$(".timer-272465530").countTo();
+				$(".count-process-272465530").appear(function() {
+				    $(".timer-272465530").countTo();
 				}, {
 				    accY: -200
 				});
@@ -446,11 +421,11 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
 		</script>
                 <div class="restly-counter-wrapper">
             <div class="restly-counter">
-                <div class="counter-numbers count-process-394460847">
-                    <div class="counter-nmber timer-394460847" data-to="17" data-speed="5000">17</div>
-                    <span class="counter-nmber">к +</span>
+                <div class="counter-numbers count-process-272465530">
+                    <div class="counter-nmber timer-272465530" data-to="6" data-speed="5000">6</div>
+                    <span class="counter-nmber"></span>
                 </div>
-                <h2 class="resty-counter-title">new users</h2>
+                <h2 class="resty-counter-title">liquidity providers</h2>
             </div>
         </div>
         		</div>
@@ -458,274 +433,40 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
 						</div>
 			</div>
 		</div>
-						</div>
-			</div>
-		</section>
-						</div>
-			</div>
-		</div>
-						</div>
-			</div>
-		</section>
-				<section class="elementor-element elementor-element-9f1d9c2 elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="9f1d9c2" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-				<div class="elementor-row">
-				<div class="elementor-element elementor-element-e8c0955 elementor-column elementor-col-50 elementor-top-column" data-id="e8c0955" data-element_type="column">
+				<div class="elementor-element elementor-element-a950da1 elementor-column elementor-col-25 elementor-inner-column" data-id="a950da1" data-element_type="column">
 			<div class="elementor-column-wrap  elementor-element-populated">
 					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-6185bc2 elementor-widget elementor-widget-restly_image" data-id="6185bc2" data-element_type="widget" data-widget_type="restly_image.default">
+				<div class="elementor-element elementor-element-39ba914 elementor-widget elementor-widget-restly_counter" data-id="39ba914" data-element_type="widget" data-widget_type="restly_counter.default">
 				<div class="elementor-widget-container">
-			        <div class="restly-image-wrapper">
-                        <div class="shape image-shape2"></div>
-            <div class="image-shape"></div>
-                        <div class="restly-image">
-                <img width="535" height="504" src="https://importcapital.cc/media/2021/11/2-5.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" />            </div>
-        </div>
-        		</div>
-				</div>
-						</div>
-			</div>
-		</div>
-				<div class="elementor-element elementor-element-877b481 elementor-column elementor-col-50 elementor-top-column" data-id="877b481" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-b0d41ea elementor-widget elementor-widget-restly_title" data-id="b0d41ea" data-element_type="widget" data-widget_type="restly_title.default">
-				<div class="elementor-widget-container">
-			        <div class="restly-section-title-wrapper">
-            <div class="restly-section-title">
-                                <h2 class="restly-section-title">What is a commission-free deposit?</h2>
-            </div>
-        </div>
-        		</div>
-				</div>
-				<div class="elementor-element elementor-element-0317a06 elementor-widget elementor-widget-text-editor" data-id="0317a06" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix">This is a unique program that operates on an ongoing basis, allowing you to deposit and withdraw funds from your trading account without commissions. Take advantage of the bonus and forget about additional costs!</div>
-				</div>
-				</div>
-						</div>
-			</div>
-		</div>
-						</div>
-			</div>
-		</section>
-				<section class="elementor-element elementor-element-728c95e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="728c95e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-				<div class="elementor-row">
-				<div class="elementor-element elementor-element-9370115 elementor-column elementor-col-100 elementor-top-column" data-id="9370115" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<section class="elementor-element elementor-element-8d4c16d elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="8d4c16d" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-				<div class="elementor-row">
-				<div class="elementor-element elementor-element-721682d elementor-column elementor-col-50 elementor-inner-column" data-id="721682d" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-7a973f0 elementor-widget elementor-widget-restly_title" data-id="7a973f0" data-element_type="widget" data-widget_type="restly_title.default">
-				<div class="elementor-widget-container">
-			        <div class="restly-section-title-wrapper">
-            <div class="restly-section-title">
-                                <h2 class="restly-section-title">How does the program work?</h2>
-            </div>
-        </div>
-        		</div>
-				</div>
-						</div>
-			</div>
-		</div>
-				<div class="elementor-element elementor-element-e7b723d elementor-column elementor-col-50 elementor-inner-column" data-id="e7b723d" data-element_type="column">
-			<div class="elementor-column-wrap">
-					<div class="elementor-widget-wrap">
-						</div>
-			</div>
-		</div>
-						</div>
-			</div>
-		</section>
-				<section class="elementor-element elementor-element-6cd027e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="6cd027e" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-				<div class="elementor-row">
-				<div class="elementor-element elementor-element-7af24fe elementor-column elementor-col-33 elementor-inner-column" data-id="7af24fe" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-73bf92c elementor-widget elementor-widget-service_box" data-id="73bf92c" data-element_type="widget" data-widget_type="service_box.default">
-				<div class="elementor-widget-container">
-			        <div class="restly-service-box-wrapper">
-                        <div class="restly-service-box-three">
-                <div class="tran-04 restly-service-box-three-inner  serveice3-left">
-                    <div class="restly_service-box-three-icon">
-                                                    <div class="service-img-icon service-box-three-icon tran-04">
-                                <img width="75" height="75" src="https://importcapital.cc/media/2021/11/Вы-внесли-депозит-в-размере-1000-долларов-выбранным-вами-методом.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />                            </div>
-                                            </div>
-                    <h3 class="service-three-title tran-04">
-                                                                    </h3>
-                    <div class="service-three-dec tran-04">
-                        <p>You have made a deposit of $ 1000 using the method of your choice</p>
-                    </div>
+
+        <script>
+			jQuery(document).ready(function($) {
+				 "use strict";
+				$(".timer-446970303").countTo();
+				$(".count-process-446970303").appear(function() {
+				    $(".timer-446970303").countTo();
+				}, {
+				    accY: -200
+				});
+			});
+		</script>
+                <div class="restly-counter-wrapper">
+            <div class="restly-counter">
+                <div class="counter-numbers count-process-446970303">
+                    <div class="counter-nmber timer-446970303" data-to="80" data-speed="5000">80</div>
+                    <span class="counter-nmber">+</span>
                 </div>
-            </div>
-                    </div>
-        		</div>
-				</div>
-						</div>
-			</div>
-		</div>
-				<div class="elementor-element elementor-element-778af0f elementor-column elementor-col-33 elementor-inner-column" data-id="778af0f" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-7a0ceaf elementor-widget elementor-widget-service_box" data-id="7a0ceaf" data-element_type="widget" data-widget_type="service_box.default">
-				<div class="elementor-widget-container">
-			        <div class="restly-service-box-wrapper">
-                        <div class="restly-service-box-three">
-                <div class="tran-04 restly-service-box-three-inner  serveice3-left">
-                    <div class="restly_service-box-three-icon">
-                                                    <div class="service-img-icon service-box-three-icon tran-04">
-                                <img width="75" height="75" src="https://importcapital.cc/media/2021/11/ImportCapital-компенсирует-все-комиссии-на-депозит-и-вывод-средств.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />                            </div>
-                                            </div>
-                    <h3 class="service-three-title tran-04">
-                                                                    </h3>
-                    <div class="service-three-dec tran-04">
-                        <p>TraderPro compensates all commissions on deposits and withdrawals</p>
-                    </div>
-                </div>
-            </div>
-                    </div>
-        		</div>
-				</div>
-						</div>
-			</div>
-		</div>
-				<div class="elementor-element elementor-element-937f153 elementor-column elementor-col-33 elementor-inner-column" data-id="937f153" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-1187bdf elementor-widget elementor-widget-service_box" data-id="1187bdf" data-element_type="widget" data-widget_type="service_box.default">
-				<div class="elementor-widget-container">
-			        <div class="restly-service-box-wrapper">
-                        <div class="restly-service-box-three">
-                <div class="tran-04 restly-service-box-three-inner  serveice3-left">
-                    <div class="restly_service-box-three-icon">
-                                                    <div class="service-img-icon service-box-three-icon tran-04">
-                                <img width="75" height="75" src="https://importcapital.cc/media/2021/11/На-ваш-счет-приходит-вся-изначально-внесенная-сумма-денег.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />                            </div>
-                                            </div>
-                    <h3 class="service-three-title tran-04">
-                                                                    </h3>
-                    <div class="service-three-dec tran-04">
-                        <p>The entire amount of money initially deposited is credited to your account</p>
-                    </div>
-                </div>
-            </div>
-                    </div>
-        		</div>
-				</div>
-						</div>
-			</div>
-		</div>
-						</div>
-			</div>
-		</section>
-				<div class="elementor-element elementor-element-3074745 elementor-widget elementor-widget-text-editor" data-id="3074745" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix">* Banks may charge their own additional commissions, which the broker does not return</div>
-				</div>
-				</div>
-						</div>
-			</div>
-		</div>
-						</div>
-			</div>
-		</section>
-				<section class="elementor-element elementor-element-2f8f680 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="2f8f680" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-				<div class="elementor-row">
-				<div class="elementor-element elementor-element-d9cee48 elementor-column elementor-col-50 elementor-top-column" data-id="d9cee48" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-3c1ac99 elementor-widget elementor-widget-restly_title" data-id="3c1ac99" data-element_type="widget" data-widget_type="restly_title.default">
-				<div class="elementor-widget-container">
-			        <div class="restly-section-title-wrapper">
-            <div class="restly-section-title">
-                                <h2 class="restly-section-title">Security of your deposit</h2>
+                <h2 class="resty-counter-title">markets</h2>
             </div>
         </div>
         		</div>
 				</div>
-				<div class="elementor-element elementor-element-a890b69 elementor-widget elementor-widget-text-editor" data-id="a890b69" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix">Trade with TraderPro! With us, your money is completely safe.</div>
-				</div>
-				</div>
-				<section class="elementor-element elementor-element-3de3229 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="3de3229" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-				<div class="elementor-row">
-				<div class="elementor-element elementor-element-96298e1 elementor-column elementor-col-50 elementor-inner-column" data-id="96298e1" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-28ac8b9 elementor-widget elementor-widget-text-editor" data-id="28ac8b9" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><i class="fas fa-check"></i> Negative balance protection</div>
-				</div>
-				</div>
-						</div>
-			</div>
-		</div>
-				<div class="elementor-element elementor-element-31ee2d3 elementor-column elementor-col-50 elementor-inner-column" data-id="31ee2d3" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-f88d231 elementor-widget elementor-widget-text-editor" data-id="f88d231" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><i class="fas fa-check"></i> Several deposit and withdrawal methods</div>
-				</div>
-				</div>
 						</div>
 			</div>
 		</div>
 						</div>
 			</div>
 		</section>
-				<section class="elementor-element elementor-element-e21176d elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="e21176d" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-				<div class="elementor-row">
-				<div class="elementor-element elementor-element-fe5ddca elementor-column elementor-col-50 elementor-inner-column" data-id="fe5ddca" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-2c0ff86 elementor-widget elementor-widget-text-editor" data-id="2c0ff86" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><i class="fas fa-check"></i> Reliable liquidity providers</div>
-				</div>
-				</div>
-						</div>
-			</div>
-		</div>
-				<div class="elementor-element elementor-element-57b49b9 elementor-column elementor-col-50 elementor-inner-column" data-id="57b49b9" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-a4d7752 elementor-widget elementor-widget-text-editor" data-id="a4d7752" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><i class="fas fa-check"></i> Segregated bank accounts</div>
-				</div>
-				</div>
-						</div>
-			</div>
-		</div>
-						</div>
-			</div>
-		</section>
-						</div>
-			</div>
-		</div>
-				<div class="elementor-element elementor-element-9ee9cbe elementor-column elementor-col-50 elementor-top-column" data-id="9ee9cbe" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-e2cc7aa elementor-widget elementor-widget-restly_image" data-id="e2cc7aa" data-element_type="widget" data-widget_type="restly_image.default">
-				<div class="elementor-widget-container">
-			        <div class="restly-image-wrapper">
-                        <div class="shape image-shape2"></div>
-            <div class="image-shape"></div>
-                        <div class="restly-image">
-                <img width="535" height="504" src="https://importcapital.cc/media/2021/11/3-3.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" />            </div>
-        </div>
-        		</div>
-				</div>
 						</div>
 			</div>
 		</div>
@@ -748,7 +489,7 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
 				<div class="elementor-widget-container">
 			        <div class="restly-section-title-wrapper">
             <div class="restly-section-title">
-                                <h2 class="restly-section-title">TraderPro advantages</h2>
+                                <h2 class="restly-section-title">Why invest with TraderPro?</h2>
             </div>
         </div>
         		</div>
@@ -772,12 +513,12 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
                 <div class="restly-service-two-contents tran-04 service-two-left">
                     <div class="restly-service-two-icon tran-04">
                                                     <div class="service-img-icon">
-                                <img width="50" height="50" src="https://importcapital.cc/media/2021/11/Защита-от-отрицательного-баланса-1.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />                            </div>
+                                <img width="50" height="50" src="https://importcapital.cc/media/2021/10/Широкий-выбор-активов.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />                            </div>
                                             </div>
                     <div class="service-two-content tran-04">
-                        <h3 class="service-two-title tran-04">Negative balance protection</h3>
+                        <h3 class="service-two-title tran-04">Wide range of assets</h3>
                         <div class="service-two-dec tran-04">
-                            <p>We will protect your deposit from big losses using a reliable special offer</p>
+                            <p>We offer you to trade with us, using instruments from different categories: currencies, stocks, indices, and commodities</p>
                         </div>
                                             </div>
                 </div>
@@ -798,12 +539,12 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
                 <div class="restly-service-two-contents tran-04 service-two-left">
                     <div class="restly-service-two-icon tran-04">
                                                     <div class="service-img-icon">
-                                <img width="50" height="50" src="https://importcapital.cc/media/2021/11/Автоматизированная-торговля-1.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />                            </div>
+                                <img width="50" height="50" src="https://importcapital.cc/media/2021/10/Ввод-и-вывод-средств.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />                            </div>
                                             </div>
                     <div class="service-two-content tran-04">
-                        <h3 class="service-two-title tran-04">Automated trading</h3>
+                        <h3 class="service-two-title tran-04">Deposit and withdrawal of funds</h3>
                         <div class="service-two-dec tran-04">
-                            <p>Follow  experienced traders to make your trading easier and more profitable</p>
+                            <p>Money is guaranteed to be deposited and withdrawn from your trading account in a matter of minutes</p>
                         </div>
                                             </div>
                 </div>
@@ -824,12 +565,12 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
                 <div class="restly-service-two-contents tran-04 service-two-left">
                     <div class="restly-service-two-icon tran-04">
                                                     <div class="service-img-icon">
-                                <img width="50" height="50" src="https://importcapital.cc/media/2021/11/Партнерская-программа-1.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />                            </div>
+                                <img width="50" height="50" src="https://importcapital.cc/media/2021/10/Выгодные-условия-торговли-2.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />                            </div>
                                             </div>
                     <div class="service-two-content tran-04">
-                        <h3 class="service-two-title tran-04">Affiliate program</h3>
+                        <h3 class="service-two-title tran-04">Favorable trading conditions</h3>
                         <div class="service-two-dec tran-04">
-                            <p>Become a part of our friendly team and receive cash bonuses for each new customer</p>
+                            <p>Margin trading allows you to trade with leveraged funds to open large positions</p>
                         </div>
                                             </div>
                 </div>
@@ -856,12 +597,12 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
                 <div class="restly-service-two-contents tran-04 service-two-left">
                     <div class="restly-service-two-icon tran-04">
                                                     <div class="service-img-icon">
-                                <img width="50" height="50" src="https://importcapital.cc/media/2021/11/Быстрое-исполнение-ордеров.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />                            </div>
+                                <img width="50" height="50" src="https://importcapital.cc/media/2021/10/Бонусы-1.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />                            </div>
                                             </div>
                     <div class="service-two-content tran-04">
-                        <h3 class="service-two-title tran-04">Fast order execution</h3>
+                        <h3 class="service-two-title tran-04">Bonuses</h3>
                         <div class="service-two-dec tran-04">
-                            <p>Immediate execution of operations allows scalping without unnecessary problems and inconveniences</p>
+                            <p>Special offers from the broker help improve trading efficiency and make it more comfortable</p>
                         </div>
                                             </div>
                 </div>
@@ -882,12 +623,12 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
                 <div class="restly-service-two-contents tran-04 service-two-left">
                     <div class="restly-service-two-icon tran-04">
                                                     <div class="service-img-icon">
-                                <img width="50" height="50" src="https://importcapital.cc/media/2021/11/2000-торговых-инструментов.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />                            </div>
+                                <img width="50" height="50" src="https://importcapital.cc/media/2021/10/Типы-счетов.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />                            </div>
                                             </div>
                     <div class="service-two-content tran-04">
-                        <h3 class="service-two-title tran-04">2000+ trading instruments</h3>
+                        <h3 class="service-two-title tran-04">Account types</h3>
                         <div class="service-two-dec tran-04">
-                            <p>Choose your favorite asset and use different trading strategies to make deals</p>
+                            <p>Several types of accounts will reveal your trading in a new way. Just choose the appropriate account</p>
                         </div>
                                             </div>
                 </div>
@@ -908,12 +649,12 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
                 <div class="restly-service-two-contents tran-04 service-two-left">
                     <div class="restly-service-two-icon tran-04">
                                                     <div class="service-img-icon">
-                                <img width="50" height="50" src="https://importcapital.cc/media/2021/11/Служба-поддержки.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />                            </div>
+                                <img width="50" height="50" src="https://importcapital.cc/media/2021/10/Без-проскальзываний.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />                            </div>
                                             </div>
                     <div class="service-two-content tran-04">
-                        <h3 class="service-two-title tran-04">Customer support</h3>
+                        <h3 class="service-two-title tran-04">No slippage</h3>
                         <div class="service-two-dec tran-04">
-                            <p>Our consultants will help you deal with finance and trading issues in your  language</p>
+                            <p>Fast terminal operation anables short-term trading without any issues</p>
                         </div>
                                             </div>
                 </div>
@@ -933,36 +674,306 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
 						</div>
 			</div>
 		</section>
-				<section class="elementor-element elementor-element-915566e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="915566e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-							<div class="elementor-background-overlay"></div>
-							<div class="elementor-container elementor-column-gap-default">
+				<section class="elementor-element elementor-element-2f8f680 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="2f8f680" data-element_type="section" data-settings="{&quot;shape_divider_bottom&quot;:&quot;mountains&quot;}">
+					<div class="elementor-shape elementor-shape-bottom" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" opacity="0.33" d="M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z"/>
+	<path class="elementor-shape-fill" opacity="0.66" d="M734,67.3c-45.5,0-77.2-23.2-129.1-39.1c-28.6-8.7-150.3-10.1-254,39.1 s-91.7-34.4-149.2,0C115.7,118.3,0,39.8,0,39.8V0h1000v36.5c0,0-28.2-18.5-92.1-18.5C810.2,18.1,775.7,67.3,734,67.3z"/>
+	<path class="elementor-shape-fill" d="M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
 				<div class="elementor-row">
-				<div class="elementor-element elementor-element-914f2f7 elementor-column elementor-col-100 elementor-top-column" data-id="914f2f7" data-element_type="column">
+				<div class="elementor-element elementor-element-d9cee48 elementor-column elementor-col-50 elementor-top-column" data-id="d9cee48" data-element_type="column">
 			<div class="elementor-column-wrap  elementor-element-populated">
 					<div class="elementor-widget-wrap">
-				<div class="elementor-element elementor-element-7154b4e elementor-widget elementor-widget-restly_title" data-id="7154b4e" data-element_type="widget" data-widget_type="restly_title.default">
+				<div class="elementor-element elementor-element-3c1ac99 elementor-widget elementor-widget-restly_title" data-id="3c1ac99" data-element_type="widget" data-widget_type="restly_title.default">
 				<div class="elementor-widget-container">
 			        <div class="restly-section-title-wrapper">
             <div class="restly-section-title">
-                                <h2 class="restly-section-title">We will help you take the first step into the world of trading!</h2>
+                                <h2 class="restly-section-title">We will help you at any time</h2>
             </div>
         </div>
         		</div>
 				</div>
-				<div class="elementor-element elementor-element-0d1db5d elementor-widget elementor-widget-text-editor" data-id="0d1db5d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-a890b69 elementor-widget elementor-widget-text-editor" data-id="a890b69" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix">TraderPro experts will explain you how to trade and which strategies are better to choose. Contactt us and start trading the selected assets right away!</div>
+					<div class="elementor-text-editor elementor-clearfix"><p>Don’t be afraid if things don’t work out while trading. Our experts will help you figure it out and advise how to trade and stay in the black. Contact us now and TraderPro professionals will answer you shortly.</p></div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-c5ea6d7 elementor-align-center elementor-widget elementor-widget-button" data-id="c5ea6d7" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-element elementor-element-de27f83 elementor-align-left elementor-widget elementor-widget-button" data-id="de27f83" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="{{ route('contact-us') }}" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-hang" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Write to us</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-9ee9cbe elementor-column elementor-col-50 elementor-top-column" data-id="9ee9cbe" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-86107b9 elementor-widget elementor-widget-image" data-id="86107b9" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="768" height="593" src="https://importcapital.cc/media/2021/10/1-2.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" srcset="https://importcapital.cc/media/2021/10/1-2.jpg 768w, https://importcapital.cc/media/2021/10/1-2-300x232.jpg 300w" sizes="(max-width: 768px) 100vw, 768px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-2a0fd77 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="2a0fd77" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-73e02d6 elementor-column elementor-col-100 elementor-top-column" data-id="73e02d6" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-7b653a4 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="7b653a4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-aa57394 elementor-column elementor-col-100 elementor-inner-column" data-id="aa57394" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-b844a6d elementor-widget elementor-widget-restly_title" data-id="b844a6d" data-element_type="widget" data-widget_type="restly_title.default">
+				<div class="elementor-widget-container">
+			        <div class="restly-section-title-wrapper">
+            <div class="restly-section-title">
+                                <h2 class="restly-section-title">We help our clients
+</h2>
+            </div>
+        </div>
+        		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-be71594 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="be71594" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-568786d elementor-column elementor-col-33 elementor-inner-column" data-id="568786d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-21655c3 elementor-widget elementor-widget-service_box" data-id="21655c3" data-element_type="widget" data-widget_type="service_box.default">
+				<div class="elementor-widget-container">
+			        <div class="restly-service-box-wrapper">
+                        <div class="restly-service-box-three">
+                <div class="tran-04 restly-service-box-three-inner  serveice3-left">
+                    <div class="restly_service-box-three-icon">
+                                                    <div class="service-img-icon service-box-three-icon tran-04">
+                                <img width="75" height="75" src="https://importcapital.cc/media/2021/10/Познать-трейдинг.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />                            </div>
+                                            </div>
+                    <h3 class="service-three-title tran-04">
+                        Learn trading                                            </h3>
+                    <div class="service-three-dec tran-04">
+                        <p>We will teach you how to trade using a suitable strategy and choose reliable assets with minimal risks.
+</p>
+                    </div>
+                </div>
+            </div>
+                    </div>
+        		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-3292b2a elementor-column elementor-col-33 elementor-inner-column" data-id="3292b2a" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-25e1497 elementor-widget elementor-widget-service_box" data-id="25e1497" data-element_type="widget" data-widget_type="service_box.default">
+				<div class="elementor-widget-container">
+			        <div class="restly-service-box-wrapper">
+                        <div class="restly-service-box-three">
+                <div class="tran-04 restly-service-box-three-inner  serveice3-left">
+                    <div class="restly_service-box-three-icon">
+                                                    <div class="service-img-icon service-box-three-icon tran-04">
+                                <img width="75" height="75" src="https://importcapital.cc/media/2021/10/Прочувствовать-торговлю.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />                            </div>
+                                            </div>
+                    <h3 class="service-three-title tran-04">
+                        Experience the trading                                            </h3>
+                    <div class="service-three-dec tran-04">
+                        <p>We offer unique and flexible conditions, 2000+ assets, great offers, and minimal spreads.</p>
+                    </div>
+                </div>
+            </div>
+                    </div>
+        		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-1b6b2b1 elementor-column elementor-col-33 elementor-inner-column" data-id="1b6b2b1" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-cc504e8 elementor-widget elementor-widget-service_box" data-id="cc504e8" data-element_type="widget" data-widget_type="service_box.default">
+				<div class="elementor-widget-container">
+			        <div class="restly-service-box-wrapper">
+                        <div class="restly-service-box-three">
+                <div class="tran-04 restly-service-box-three-inner  serveice3-left">
+                    <div class="restly_service-box-three-icon">
+                                                    <div class="service-img-icon service-box-three-icon tran-04">
+                                <img width="75" height="75" src="https://importcapital.cc/media/2021/10/Самореализоваться.png" class="attachment-thumbnail size-thumbnail" alt="" decoding="async" loading="lazy" />                            </div>
+                                            </div>
+                    <h3 class="service-three-title tran-04">
+                        Self-realization                                            </h3>
+                    <div class="service-three-dec tran-04">
+                        <p>We will help you unleash your trading potential on the global financial markets and become a real professional in your field.</p>
+                    </div>
+                </div>
+            </div>
+                    </div>
+        		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-9f1d9c2 elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="9f1d9c2" data-element_type="section" data-settings="{&quot;shape_divider_top&quot;:&quot;mountains&quot;}">
+					<div class="elementor-shape elementor-shape-top" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" opacity="0.33" d="M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z"/>
+	<path class="elementor-shape-fill" opacity="0.66" d="M734,67.3c-45.5,0-77.2-23.2-129.1-39.1c-28.6-8.7-150.3-10.1-254,39.1 s-91.7-34.4-149.2,0C115.7,118.3,0,39.8,0,39.8V0h1000v36.5c0,0-28.2-18.5-92.1-18.5C810.2,18.1,775.7,67.3,734,67.3z"/>
+	<path class="elementor-shape-fill" d="M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-e8c0955 elementor-column elementor-col-50 elementor-top-column" data-id="e8c0955" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-6185bc2 elementor-widget elementor-widget-restly_image" data-id="6185bc2" data-element_type="widget" data-widget_type="restly_image.default">
+				<div class="elementor-widget-container">
+			        <div class="restly-image-wrapper">
+                        <div class="shape image-shape2"></div>
+            <div class="image-shape"></div>
+                        <div class="restly-image">
+                <img width="465" height="504" src="https://importcapital.cc/media/2021/10/1-2.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://importcapital.cc/media/2021/10/1-2.png 465w, https://importcapital.cc/media/2021/10/1-2-277x300.png 277w" sizes="(max-width: 465px) 100vw, 465px" />            </div>
+        </div>
+        		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-877b481 elementor-column elementor-col-50 elementor-top-column" data-id="877b481" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-b0d41ea elementor-widget elementor-widget-restly_title" data-id="b0d41ea" data-element_type="widget" data-widget_type="restly_title.default">
+				<div class="elementor-widget-container">
+			        <div class="restly-section-title-wrapper">
+            <div class="restly-section-title">
+                                <h2 class="restly-section-title">Trade hassle-free!</h2>
+            </div>
+        </div>
+        		</div>
+				</div>
+				<div class="elementor-element elementor-element-0317a06 elementor-widget elementor-widget-text-editor" data-id="0317a06" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>We provide the award-winning MetaTrader platform for trading the financial markets. You can use all the terminal functions: setting charts, connecting indicators and oscillators, as well as fast order execution. Your trade will become as profitable as possible!</p></div>
+				</div>
+				</div>
+				<section class="elementor-element elementor-element-d568eec elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="d568eec" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-55feb70 elementor-column elementor-col-100 elementor-inner-column" data-id="55feb70" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1e6b713 elementor-align-left elementor-widget elementor-widget-button" data-id="1e6b713" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
 			<a href="{{ route('register') }}" class="elementor-button-link elementor-button elementor-size-lg elementor-animation-hang" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Make deposit</span>
+						<span class="elementor-button-text">Register now</span>
 		</span>
 					</a>
 		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-4d08d71 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="4d08d71" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-e8c0054 elementor-column elementor-col-33 elementor-top-column" data-id="e8c0054" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-89c87a7 elementor-widget elementor-widget-restly_title" data-id="89c87a7" data-element_type="widget" data-widget_type="restly_title.default">
+				<div class="elementor-widget-container">
+			        <div class="restly-section-title-wrapper">
+            <div class="restly-section-title">
+                                <h2 class="restly-section-title">Safety of funds</h2>
+            </div>
+        </div>
+        		</div>
+				</div>
+				<div class="elementor-element elementor-element-3392e5e elementor-widget elementor-widget-text-editor" data-id="3392e5e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix">Your money is kept in secure accounts separate from the broker&#8217;s funds</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-35ed04d elementor-column elementor-col-33 elementor-top-column" data-id="35ed04d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-ec9dfad elementor-widget elementor-widget-restly_title" data-id="ec9dfad" data-element_type="widget" data-widget_type="restly_title.default">
+				<div class="elementor-widget-container">
+			        <div class="restly-section-title-wrapper">
+            <div class="restly-section-title">
+                                <h2 class="restly-section-title">Security</h2>
+            </div>
+        </div>
+        		</div>
+				</div>
+				<div class="elementor-element elementor-element-d775863 elementor-widget elementor-widget-text-editor" data-id="d775863" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix">The broker acts in accordance with generally accepted trading rules and adheres to them</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-f9c9f41 elementor-column elementor-col-33 elementor-top-column" data-id="f9c9f41" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2485eff elementor-widget elementor-widget-restly_title" data-id="2485eff" data-element_type="widget" data-widget_type="restly_title.default">
+				<div class="elementor-widget-container">
+			        <div class="restly-section-title-wrapper">
+            <div class="restly-section-title">
+                                <h2 class="restly-section-title">Reliability</h2>
+            </div>
+        </div>
+        		</div>
+				</div>
+				<div class="elementor-element elementor-element-cf7be42 elementor-widget elementor-widget-text-editor" data-id="cf7be42" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix">We carefully protect information about our clients and do not allow its leakage</div>
 				</div>
 				</div>
 						</div>
@@ -984,8 +995,7 @@ var pw_script_vars = {"url":"https:\/\/importcapital.cc\/wp-content\/plugins\/cp
 								<section id="custom_html-11" class="widget_text widget footer-widtet widget_custom_html"><h4 class="widget-title">Risk Warning:</h4><div class="textwidget custom-html-widget"><p>
 	CFDs are a complex financial instrument. It is associated with a high probability of funds loss due to the use of leverage. Statistics show that 78% of private investors lose their capital when trading CFDs.
 </p></div></section><section id="custom_html-12" class="widget_text widget footer-widtet widget_custom_html"><h4 class="widget-title">Contact Information</h4><div class="textwidget custom-html-widget"><p>
-	trade@i-tradingpro.online
-</p>
+    trade@i-tradingpro.online</p>
 <p>
 	<i class="fas fa-phone"></i> +44 1865 52 2744
 
@@ -1017,7 +1027,7 @@ Before you start trading on the global financial markets, you should familiarize
 	<div class="to-top" id="back-top"><i class="fa fa-angle-up"></i></div>
 </div><!-- #page -->
 
-		<script data-cfasync="false" src="https://importcapital.cc/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+		<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
 			window.RS_MODULES = window.RS_MODULES || {};
 			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
 			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
@@ -1050,7 +1060,7 @@ var wpcf7 = {"api":{"root":"https:\/\/importcapital.cc\/wp-json\/","namespace":"
 <script src='https://importcapital.cc/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=2.9.8' id='elementor-frontend-modules-js'></script>
 <script src='https://importcapital.cc/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=2.10.3' id='elementor-sticky-js'></script>
 <script id='elementor-pro-frontend-js-before'>
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/importcapital.cc\/wp-admin\/admin-ajax.php","nonce":"1550b09ec7","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/importcapital.cc\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/importcapital.cc\/wp-admin\/admin-ajax.php","nonce":"1a7dc7fd10","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/importcapital.cc\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
 <script src='https://importcapital.cc/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=2.10.3' id='elementor-pro-frontend-js'></script>
 <script src='https://importcapital.cc/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
@@ -1059,7 +1069,7 @@ var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/importcapital.cc\/wp-admi
 <script src='https://importcapital.cc/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
 <script src='https://importcapital.cc/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=2.9.8' id='share-link-js'></script>
 <script id='elementor-frontend-js-before'>
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","downloadImage":"Download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.8","urls":{"assets":"https:\/\/importcapital.cc\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]},"post":{"id":3461,"title":"No%20comission%20%E2%80%93%20ImportCapital","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","downloadImage":"Download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.8","urls":{"assets":"https:\/\/importcapital.cc\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]},"post":{"id":3075,"title":"About%20%E2%80%93%20TraderPro","excerpt":"","featuredImage":false}};
 </script>
 <script src='https://importcapital.cc/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.8' id='elementor-frontend-js'></script>
 <script>
@@ -1080,6 +1090,4 @@ function changeToLowerCase(el)
  }
 </script>
 </body>
-
-<!-- Mirrored from importcapital.cc/no-comission by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 07 Mar 2023 14:22:20 GMT -->
 </html>
