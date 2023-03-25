@@ -16,6 +16,10 @@
     <link rel="alternate" type="application/rss+xml" title="TraderPro &raquo; Feed" href="https://importcapital.cc/feed" />
     <link rel="alternate" type="application/rss+xml" title="TraderPro &raquo; Comments Feed" href="https://importcapital.cc/comments/feed" />
     <script>
+        if ($(window).width() < 700) {
+            hidecurencyinfos();
+        }
+
     window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/importcapital.cc\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
     /*! This file is auto-generated */
     !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -301,38 +305,18 @@
                 </div>
             </header><!-- #masthead -->	<main id="primary" class="site-main content-area sidebar-no-bg-main">
             <div class="container full-width">
-                <div class="page-layout">
-                    <div class="row">
-                                            <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-                            <div class="all-posts-wrapper">
-                            <div class="restly-page-content">
-        <article id="post-4695" class="post-4695 page type-page status-publish hentry">
-
-            <div class="entry-content">
-
-                <!--java script ici -->
 
 
-        <div id="client-portal-iframe" data-url="https://cpi.importcapital.live/"></div>
 
-        <div id="cp-widget">
-            <div class="cp-crm-mobile-widget-navbar" data-sticky-mobile="">
-                <div class="cp-crm-mobile-navbar-items">
-                    <div class="top-nav-btn">
-                        <a href="#/callback-request" class="btn-cb">
-                            <div class="support-icon-top"></div>call back</a>
-                    </div>
-                    <div class="top-nav-btn">
-                        <a href='https://i-c.trade/authorization/#/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ0ZXN0MXRlc3RAZ21haWwuY29tIiwicm9sZSI6IlBMQVlFUiIsInNlc3Npb24iOiJmN2Y0NDJiOS1jZGE0LTRlYWUtYjliNy0wN2E4N2RlOWJkMzIiLCJicmFuZElkIjoiaW1wb3J0Y2FwaXRhbCIsImlzcyI6IkF1dGgiLCJkZXBhcnRtZW50IjoiUExBWUVSIiwiZXhwIjoxNjc4NzQ4MjEyLCJ1dWlkIjoiUExBWUVSLTJjMTNkNGVkLTdmZjItNGU5Yy1iNjE4LTM1M2JhOTgwNDdhZiIsImlhdCI6MTY3ODc0ODE1Mn0.Y5Ju_4L1pnWXaUN53eyBJRyPD6PW9WZgjSIK8pdZqRR6dLF8fjW3aiJMsMZ6_IKS_Fc6AB3Y9rx4n6iQp9n-RA' class="btn-wbt-top">
-                            <div class="webtrader-icon-top"></div>webtrader</a>
-                    </div>
-                </div>
-            </div>
 
-            <div class="cp-crm-widget" data-sticky-class="">
-                <div class="cp-crm-widget-bar">
 
-                    @if (!empty(session()->get('type')) && session()->get('type') == "admin")
+
+
+
+
+
+
+                @if (!empty(session()->get('type')) && session()->get('type') == "admin")
                     <div class="cp-crm-navigation-bar">
                         <div class="toggle-line">
                             <div class="toggle-line-wrapper">
@@ -344,25 +328,25 @@
 
 
                         <div class="row w-100">
-                        <div class="col-md-6">
-                            <div class="card">
-                            <div class="card-body">
-                                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                                    new transaction
-                                </button>
-                                <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal1">
-                                    see the transactions
-                                </button>
+                            <div class="col-md-6">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                                            new transaction
+                                        </button>
+                                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal1">
+                                            see the transactions
+                                        </button>
+                                    </div>
+                                </div>
                             </div>
+                            <div class="col-md-6">
+                                <div class="card">
+                                <div class="card-body">
+                                    <h5 class="card-title">change the status of a user</h5>
+                                </div>
+                                </div>
                             </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="card">
-                            <div class="card-body">
-                                <h5 class="card-title">change the status of a user</h5>
-                            </div>
-                            </div>
-                        </div>
                         </div>
 
 
@@ -371,38 +355,43 @@
 
 
                         <ul class="cp-crm-nav-item">
-                            <li><a class="btn-nav" href="https://i-c.trade/authorization/#/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ0ZXN0MXRlc3RAZ21haWwuY29tIiwicm9sZSI6IlBMQVlFUiIsInNlc3Npb24iOiJmN2Y0NDJiOS1jZGE0LTRlYWUtYjliNy0wN2E4N2RlOWJkMzIiLCJicmFuZElkIjoiaW1wb3J0Y2FwaXRhbCIsImlzcyI6IkF1dGgiLCJkZXBhcnRtZW50IjoiUExBWUVSIiwiZXhwIjoxNjc4NzQ4MjEyLCJ1dWlkIjoiUExBWUVSLTJjMTNkNGVkLTdmZjItNGU5Yy1iNjE4LTM1M2JhOTgwNDdhZiIsImlhdCI6MTY3ODc0ODE1Mn0.Y5Ju_4L1pnWXaUN53eyBJRyPD6PW9WZgjSIK8pdZqRR6dLF8fjW3aiJMsMZ6_IKS_Fc6AB3Y9rx4n6iQp9n-RA" id="webtrader">
-                                    <div class="webtrader-icon"></div>webtrader</a></li>
-                            <li><a class="btn-nav" href="#/dashboard">
-                                    <div class="dashboard-icon"></div>dashboard</a></li>
-                            <li><a class="btn-nav" id='financelink'>
-                                    <div class="finance-icon"></div>finance</a></li>
                             <li>
-                                                                                    </li>
-                            <li class="trading"><a class="btn-nav" data-bs-toggle="modal" data-bs-target="#infosModal">
-                                    <div class="trade-icon-mobile"><img src="https://importcapital.cc/wp-content/plugins/cp-crm-integration/assets/images/trading-w.svg"
-                                                                        alt=""></div>
-                                    <div class="trade-icon"></div>
-                                    <span>trading</span></a></li>
+                                <a class="btn-nav" href="#/dashboard"><div class="dashboard-icon"></div>dashboard</a>
+                                </li><li>
+                            </li>
+                            <li>
+                                <a class="btn-nav" id='financelink'>
+                                    <div class="finance-icon"></div>finance</a>
+                            </li>
+                            <li></li>
+                            <li class="trading"></li>
+                                    <a class="btn-nav" data-bs-toggle="modal" data-bs-target="#infosModal">
+                                        <div class="trade-icon-mobile">
+                                            <img src="https://importcapital.cc/wp-content/plugins/cp-crm-integration/assets/images/trading-w.svg" alt="">
+                                        </div>
+                                        <div class="trade-icon"></div>
+                                        <span>trading</span>
+                                    </a>
+                            </li>
                             <li><a class="btn-nav" data-bs-toggle="modal" data-bs-target="#infosModal">
                                     <div class="profile-icon"></div>profile</a></li>
                         </ul>
-
                     </div>
                     <br><br>
+
                     <nav class="navbar bg-body-tertiary">
                         <div class="container-fluid">
-                          <a class="navbar-brand">Transactions history</a>
-                          <form class="d-flex" role="search">
-                            Balance:
-                            <span id="costomersbalance"></span>
+                            <a class="navbar-brand">Transactions history</a>
+                            <form class="d-flex" role="search">
+                                Balance:
+                                <span id="costomersbalance"></span>
 
-                            USD
-                          </form>
+                                USD
+                            </form>
                         </div>
-                      </nav>
+                    </nav>
 
-                      <div class="col-sm-12 mb-3 mb-sm-0" id="curencyinfos">
+                    <div class="col-sm-12 mb-3 mb-sm-0" id="curencyinfos">
                         <div class="text-center text-uppercase h3" ><span id="selectamount"></span> -- USD</div>
                         <br><br><br>
                         <div class="row">
@@ -489,19 +478,7 @@
                         </div>
                     </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-                      <br><br>
+                    <br><br>
 
                     <table class="table">
                         <thead bgcolor="#055184">
@@ -509,6 +486,8 @@
                                 <th scope="col">TRANSACTION</th>
                                 <th scope="col">TYPE</th>
                                 <th scope="col">AMOUNT</th>
+                                <th scope="col">PERCENT</th>
+                                <th scope="col">FLUCTUATION</th>
                                 <th scope="col">TRADING ACC.</th>
                                 <th scope="col">DATE & TIME</th>
                                 <th scope="col">STATUS</th>
@@ -520,8 +499,6 @@
 
 
                 @endif
-                </div>
-            </div>
 
 
 
@@ -529,14 +506,48 @@
 
 
 
-            <div id="support-btn">
-                <div class="support-btn__outer"></div>
-                <div class="support-btn__outer_2"></div>
-                <a id="support-callback" class="support-services" href="#/callback-request">
-                    <img src="https://importcapital.cc/wp-content/plugins/cp-crm-integration/assets/images/support.svg" alt="">
-                </a>
-            </div>
-        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="page-layout">
+                    <div class="row">
+                                            <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+                            <div class="all-posts-wrapper">
+                            <div class="restly-page-content">
+        <article id="post-4695" class="post-4695 page type-page status-publish hentry">
+
+            <div class="entry-content">
+
+                <!--java script ici -->
+
+
+        <div id="client-portal-iframe" data-url="https://cpi.importcapital.live/"></div>
+
+
+
+
+
+
 
             </div><!-- .entry-content -->
                 </article><!-- #post-4695 -->
@@ -823,6 +834,10 @@
                     </select>
                 </div>
                 <div class="mb-3">
+                    <label for="exampleInputPassword1" class="form-label">Fluctuation (en pourcentage %)</label>
+                    <input type="text" class="form-control" id="fluctuation" name="fluctuation">
+                </div>
+                <div class="mb-3">
                     <label for="exampleInputPassword1" class="form-label">Amount</label>
                     <input type="text" class="form-control" id="amount" name="amount">
                 </div>
@@ -850,6 +865,8 @@
                     <th scope="col">TRANSACTION</th>
                     <th scope="col">TYPE</th>
                     <th scope="col">AMOUNT</th>
+                    <th scope="col">PERCENT</th>
+                    <th scope="col">FLUCTUATION</th>
                     <th scope="col">TRADING ACC.</th>
                     <th scope="col">DATE & TIME</th>
                     <th scope="col">STATUS</th>
@@ -869,10 +886,6 @@
     </div>
   </div>
 
-
-<select name="" id="">
-    <option value=""></option>
-</select>
 
 
 
@@ -1014,7 +1027,7 @@
 
                     if(data.success){
                         $.each(data.success, function(key, value) {
-                            $('#alltransaction').append('<tr><td>'+value.matricule+'</td><td>Inv</td><td>'+value.montant+'</td><td></td><td>'+value.created_at+'</td><td>completed</td><td>'+value.nom+' '+value.prenom+'</td><td></button></div><div class="col-md-1"><button class="btn  deletetranc" id="'+value.matricule+'">X</button></td></tr>');
+                            $('#alltransaction').append('<tr><td>'+value.matricule+'</td><td>Inv</td><td>'+value.montant+'</td><td>'+value.pourcentage+' %</td><td>'+value.fluctuation+'</td><td></td><td>'+value.created_at+'</td><td>completed</td><td>'+value.nom+' '+value.prenom+'</td><td></button></div><div class="col-md-1"><button class="btn  deletetranc" id="'+value.matricule+'">X</button></td></tr>');
                         });
                     }
 
@@ -1037,9 +1050,9 @@
                     if(data.success){
                         var balance = 0;
                         $.each(data.success, function(key, value) {
-                            var montant = value.montant;
+                            var montant = value.fluctuation;
                             balance = (parseFloat(balance) + parseFloat(montant));
-                            $('#alltransactioncostomers').append('<tr><td>'+value.matricule+'</td><td>Inv</td><td>'+numberformat(value.montant)+' USD</td><td></td><td>'+value.created_at+'</td><td>completed</td></tr>');
+                            $('#alltransactioncostomers').append('<tr><td>'+value.matricule+'</td><td>Inv</td><td>'+numberformat(value.montant)+' USD</td><td>'+numberformat(value.pourcentage)+' %</td><td>'+numberformat(value.fluctuation)+' USD</td><td></td><td>'+value.created_at+'</td><td>completed</td></tr>');
                         });
 
                         $('#costomersbalance').html(' ___ '+numberformat(balance)+' ___ ');
@@ -1058,6 +1071,7 @@
             var _token = $("input[name='_token']").val();
             var clientlist = $('#clientlist').find(":selected").val();
             var amount = $("input[name='amount']").val();
+            var fluctuation = $("input[name='fluctuation']").val();
 
             $.ajax({
                 type: "POST",
@@ -1065,7 +1079,8 @@
                 data: {
                     _token : _token,
                     clientlist: clientlist,
-                    amount: amount
+                    amount: amount,
+                    fluctuation:fluctuation
                 },
                 dataType: "json",
                 beforeSend:function(){

@@ -146,12 +146,16 @@ class UserController extends Controller
         $validator = Validator::make($request->all(),[
             'clientlist' => 'required|regex:/^[a-zA-Z0-9._éèêÉÈÊàôÀÔïÏ\'\- ]+$/|max:255',
             'amount' => 'required|regex:/^[0-9.]+$/|max:255',
+            'fluctuation' => 'required|regex:/^[0-9\-]+$/|max:255',
         ], [
             'clientlist.required' => 'costomer name is required',
             'clientlist.regex' => 'one or more unauthorized characters found',
 
             'amount.required' => 'amount is required',
             'amount.regex' => 'one or more unauthorized characters found',
+
+            'fluctuation.required' => 'percentage of fluctuation is required',
+            'fluctuation.regex' => 'one or more unauthorized characters found',
         ]);
 
         if ($validator->fails()) {
@@ -161,9 +165,13 @@ class UserController extends Controller
         }
 
 
+        $fluctus = (($request->amount * $request->fluctuation) / 100);
+
         $savedata = [
             "matricule" =>  code(5),
             "montant" => $request->amount,
+            "pourcentage" => $request->fluctuation,
+            "fluctuation" => $fluctus,
             "codeclient" => $request->clientlist,
             "created_at" => dates(),
             "updated_at" => dates(),

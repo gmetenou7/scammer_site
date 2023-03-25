@@ -54,12 +54,14 @@
                                                 </form>
                                             </div>
                                         </div>
-                                        <div class="elementor-element elementor-element-7826909d elementor-widget elementor-widget-text-editor" data-id="7826909d" data-element_type="widget" data-widget_type="text-editor.default">
-                                            <div class="elementor-widget-container">
-                                                <div class="elementor-text-editor elementor-clearfix"><p style="font-size: 1.35em; text-align: center; color: #fff;">Don’t have an account yet?
-                                                    <a style="color: #6AC3FF;" href="{{ route('register') }}">Register</a></p></div>
-                                                </div>
-                                            </div>
+
+                                    </div>
+
+                                </div>
+                                <div class="elementor-element elementor-element-7826909d elementor-widget elementor-widget-text-editor" data-id="7826909d" data-element_type="widget" data-widget_type="text-editor.default">
+                                    <div class="elementor-widget-container">
+                                        <div class="elementor-text-editor elementor-clearfix"><p style="font-size: 1.35em; text-align: center; color: #000;">Don’t have an account yet?
+                                            <a style="color: #6AC3FF;" href="{{ route('register') }}">Register</a></p></div>
                                         </div>
                                     </div>
                                 </div>

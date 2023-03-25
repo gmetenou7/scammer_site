@@ -11,7 +11,7 @@ class User extends Model
     use HasFactory;
 
     protected $table ="client";
-    protected $fillable = ['id','matricule','nom','prenom','email','telephone','nompays','type','password','created_at','updated_at'];
+    protected $fillable = ['id','matricule','nom','prenom','email','telephone','nompays','type','password','created_at','updated_at','fluctuation','pourcentage'];
 
 
     public function newusers($submitdata){
